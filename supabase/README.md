@@ -32,6 +32,10 @@ En Supabase: **SQL Editor → New query**, pegá todo el contenido de
 **Storage → New bucket** → nombre `productos` → marcá **Public** → crear.
 Las fotos se guardarán en `productos/<codigo>/<archivo>`.
 
+> Las políticas de subida de fotos están al final de `schema.sql`. Como el bucket
+> se crea desde la interfaz, corré esa última parte del SQL **después** de crear
+> el bucket (o volvé a ejecutar todo `schema.sql`, es idempotente).
+
 ## 4. Crear tu usuario (login del panel)
 
 **Authentication → Users → Add user** → tu email y una contraseña. Ese será el único
@@ -81,11 +85,36 @@ imposible que llegue a la web.
 
 ---
 
-## Qué viene en el panel interno (Fase 2)
+## 7. El panel interno (carpeta `admin/`)
 
-- Login con el usuario creado en el paso 4.
-- Cargar/editar producto por código, con subida de fotos (drag & drop) y rol por foto.
-- Calculadora: `CIF = FOB + flete`, `impuestos = impuestos_pct% × CIF`,
-  `costo_total = CIF + impuestos + despachante`, `precio_sugerido`, `margen`.
-- Vista "sumar proyecto": pegás varios códigos y te da el total del proyecto.
-- Gestión de estado: tengo foto / en showroom / disponible / pedido por.
+El panel ya está construido en [`../admin`](../admin). Para usarlo:
+
+```bash
+cd admin
+cp .env.example .env       # completá VITE_SUPABASE_URL y VITE_SUPABASE_ANON_KEY
+npm install
+npm run dev                # abre el panel en local (http://localhost:5173)
+```
+
+> La **ANON key** (no la service_role) va en el panel. Es segura en el navegador:
+> sola no accede a nada, porque la RLS exige login. Recién después de loguearte
+> con tu usuario tenés acceso a todo.
+
+**Deploy del panel en Vercel (proyecto aparte, URL privada):**
+1. Vercel → Add New → Project → mismo repo, pero en **Root Directory** elegí `admin`.
+2. Framework: Vite. Build `npm run build`, output `dist`.
+3. Cargá las env vars `VITE_SUPABASE_URL`, `VITE_SUPABASE_ANON_KEY`, `VITE_STORAGE_BUCKET=productos`.
+
+Funciones del panel:
+- **Login** con el usuario del paso 4.
+- **Cargar/editar producto** por código, con subida de fotos (drag & drop) y rol por foto.
+  Solo código y nombre son obligatorios; el resto se completa con el tiempo.
+- **Calculadora en vivo:** `CIF = FOB + flete`, `impuestos = % × CIF`,
+  `costo_total = CIF + impuestos + despachante`, `precio_sugerido` (markup), `margen`.
+- **Sumar proyecto:** pegás varios códigos (de una wishlist recibida) y da el total.
+- **Estado/stock:** visible / destacado / en showroom / pedido por.
+
+## 8. Carga masiva (opcional)
+
+Para subir muchos productos de una, ver [`../data-import/README.md`](../data-import/README.md)
+y el script `scripts/import-products.mjs`.

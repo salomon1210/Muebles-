@@ -1,0 +1,28 @@
+[
+  {
+    "codigo": "SF6011",
+    "nombre": "Sofá modular Como",
+    "categoria": "sofas",
+    "ambientes": ["living"],
+    "medidas": "320 × 95 × 70 cm",
+    "materiales": "Tapizado en lino italiano, estructura de haya maciza.",
+    "descripcion": "Sofá modular de líneas puras y proporciones generosas.",
+    "destacado": true,
+    "disponible": true,
+
+    "codigo_fabrica": "ZH-9981",
+    "fabrica": "Foshan XX Furniture",
+    "contacto_vendedor": "WeChat: vendedor_xx",
+    "costo_fob": 850,
+    "flete_estimado": 120,
+    "costo_despachante": 60,
+    "impuestos_pct": 23,
+    "markup_pct": 120,
+
+    "imagenes": [
+      { "rol": "principal", "file": "fotos/sf6011/1.jpg", "alt": "Sofá Como" },
+      { "rol": "ambiente", "file": "fotos/sf6011/2.jpg" },
+      { "rol": "detalle", "url": "https://otra-url.com/detalle.jpg" }
+    ]
+  }
+]

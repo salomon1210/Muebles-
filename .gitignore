@@ -17,6 +17,11 @@ src/data/catalog.generated.json
 # astro
 .astro/
 
+# datos de importación reales (mantener solo el ejemplo)
+data-import/*
+!data-import/README.md
+!data-import/products.example.json
+
 # logs / os
 *.log
 .DS_Store

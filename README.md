@@ -7,13 +7,14 @@ completa sus datos y la **envía por WhatsApp**. Vos cotizás el proyecto a mano
 El sistema tiene 3 partes con **una sola fuente de datos** (el código de producto es la
 llave única, ej. `DT6701`):
 
-1. **Web pública** (esta carpeta) — Astro estático en Vercel. *(Fase 1 — ✅ lista)*
-2. **Backend** — Supabase (base + fotos + login). *(Fase 2)*
-3. **Panel interno** — herramienta de carga con login. *(Fase 2)*
+1. **Web pública** (esta carpeta) — Astro estático en Vercel. *(✅ lista)*
+2. **Backend** — Supabase (base + fotos + login). *(✅ esquema y guía listos: `supabase/`)*
+3. **Panel interno** — herramienta de carga con login (`admin/`). *(✅ construido)*
 
-> **Estado actual:** Fase 1 completa y deployable. Funciona con un catálogo de ejemplo
-> (`src/data/catalog.seed.json`) hasta que conectes Supabase. Ver `supabase/schema.sql` y
-> `supabase/README.md` para la base de datos (Fase 2).
+> **Estado actual:** Fase 1 y 2 construidas. La web funciona con un catálogo de ejemplo
+> (`src/data/catalog.seed.json`) hasta que conectes Supabase; cuando lo conectes, el
+> catálogo sale de la base y lo cargás desde el panel. Para activar el backend y el panel,
+> seguí `supabase/README.md`.
 
 ---
 
@@ -138,10 +139,18 @@ public/productos/         ← fotos de productos
 public/showroom/          ← fotos de tu casa / showroom
 ```
 
-## Próxima fase (Fase 2)
+## Backend y panel (Fase 2 — ya construido)
 
-- Crear el proyecto Supabase y correr `supabase/schema.sql` (ver `supabase/README.md`).
-- Panel interno `/admin` para cargar productos, fotos y costos, con calculadora de
-  cotización (CIF, impuestos, costo total, precio sugerido, margen) y suma de proyectos.
-- Webhook de Supabase → Deploy Hook de Vercel para que la web se republique sola al
-  guardar un producto.
+Para activarlos seguí **`supabase/README.md`** paso a paso:
+
+1. Crear el proyecto Supabase y correr `supabase/schema.sql`.
+2. Crear el bucket `productos` y tu usuario (login del panel).
+3. Conectar la web (`SUPABASE_URL` + `SUPABASE_SERVICE_ROLE_KEY` en Vercel).
+4. Correr el panel: `cd admin && cp .env.example .env && npm install && npm run dev`.
+5. (Opcional) Webhook de Supabase → Deploy Hook de Vercel para que la web se republique
+   sola al guardar un producto.
+
+Desde el panel cargás productos, fotos y costos (todo opcional menos código y nombre, así
+vas completando con el tiempo), con calculadora de cotización (CIF, impuestos, costo total,
+precio sugerido, margen) y suma de proyectos. Para cargar muchos de una, ver
+`data-import/README.md`.

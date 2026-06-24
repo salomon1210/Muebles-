@@ -38,6 +38,9 @@ create table if not exists public.products (
   flete_estimado          numeric(12,2),
   costo_despachante       numeric(12,2),
   impuestos_pct           numeric(5,2) default 23,        -- % sobre CIF
+  -- Precio de venta (lo decidís vos; la calculadora del panel lo sugiere)
+  markup_pct              numeric(6,2),                   -- % de markup sobre el costo total
+  precio_venta            numeric(12,2),                  -- precio final de venta elegido
   -- Logística
   volumen_m3              numeric(10,3),
   peso_kg                 numeric(10,2),
@@ -123,4 +126,24 @@ revoke all on public.products from anon;
 -- STORAGE (fotos): crear el bucket público "productos" desde el panel de
 -- Supabase (Storage → New bucket → name: productos → Public). Path sugerido:
 --   productos/<codigo>/<archivo>
+--
+-- Una vez creado el bucket, corré estas políticas para que el panel (usuario
+-- autenticado) pueda subir/borrar fotos. La lectura es pública (bucket público).
 -- ============================================================================
+drop policy if exists "owner upload productos" on storage.objects;
+create policy "owner upload productos"
+  on storage.objects for insert
+  to authenticated
+  with check (bucket_id = 'productos');
+
+drop policy if exists "owner update productos" on storage.objects;
+create policy "owner update productos"
+  on storage.objects for update
+  to authenticated
+  using (bucket_id = 'productos');
+
+drop policy if exists "owner delete productos" on storage.objects;
+create policy "owner delete productos"
+  on storage.objects for delete
+  to authenticated
+  using (bucket_id = 'productos');
