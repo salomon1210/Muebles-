@@ -39,5 +39,8 @@ decoración 6.
 3. **160 de 276 muebles sin medidas (58%)** (gravedad media). Faltan en el CSV
    de origen (sobre todo sofás, sillones, sillas, aparadores). → Las vas
    cargando con el tiempo; la ficha ya oculta la medida cuando falta.
-4. **Fotos:** el catálogo principal tiene foto+código (matcheable); los otros dos
-   son lookbooks sin código. Pendiente de extracción.
+4. **Fotos:** extraídas **157 de 160** del catálogo principal (foto+código),
+   leídas por 18 agentes y reconciliadas contra el CSV (0 inválidos, 0
+   duplicados). Las 3 sin foto (SF6824, SF6825, SF6827) no están fotografiadas
+   en el catálogo. Los lookbooks (Living II, Colección III) son sin código:
+   sirven para portada/galería, y esos productos se completan con el tiempo.
