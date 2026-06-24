@@ -1,0 +1,51 @@
+---
+import Layout from '../layouts/Layout.astro';
+import { site, whatsappLink } from '../config';
+
+const fotos = [
+  { src: '/showroom/casa-1.svg', alt: 'Living amueblado con productos Milano Home' },
+  { src: '/showroom/casa-2.svg', alt: 'Comedor del showroom' },
+  { src: '/showroom/casa-3.svg', alt: 'Detalle de materiales' },
+  { src: '/showroom/casa-4.svg', alt: 'Espacio de estar' },
+];
+---
+
+<Layout title="Showroom — Mi casa" description="Mi propia casa es el showroom: vení a ver y tocar la calidad en persona.">
+  <section class="container-px mx-auto max-w-7xl pt-14 pb-10">
+    <p class="eyebrow">La prueba está en mi casa</p>
+    <h1 class="font-display text-4xl lg:text-6xl mt-3">Mi casa / Showroom</h1>
+    <p class="mt-5 text-noir/70 max-w-prose2 leading-relaxed">
+      No tengo un local: mi propia casa, amueblada con estos mismos productos, es el showroom.
+      Es la mejor prueba de calidad que puedo darte. Vení a ver los materiales, sentarte en los
+      sillones y tocar las terminaciones antes de decidir nada.
+    </p>
+  </section>
+
+  <section class="container-px mx-auto max-w-7xl pb-12">
+    <div class="grid sm:grid-cols-2 gap-4">
+      {fotos.map((f, idx) => (
+        <img
+          src={f.src}
+          alt={f.alt}
+          class:list={['w-full object-cover', idx % 3 === 0 ? 'aspect-[4/3] sm:col-span-2' : 'aspect-[4/3]']}
+          loading="lazy"
+        />
+      ))}
+    </div>
+    <p class="mt-4 text-xs text-noir/40 text-center">
+      Imágenes de muestra — reemplazá por las fotos reales de tu casa (ver README: carpeta <code>public/showroom/</code>).
+    </p>
+  </section>
+
+  <section class="bg-noir text-crema-100">
+    <div class="container-px mx-auto max-w-7xl py-16 text-center">
+      <h2 class="font-display text-3xl lg:text-4xl">¿Coordinamos una visita?</h2>
+      <p class="mt-4 text-crema-200/80 max-w-prose2 mx-auto">
+        Escribime y vemos un día. {site.ubicacion}.
+      </p>
+      <a href={whatsappLink('Hola, me gustaría coordinar una visita al showroom de ' + site.nombre + '.')} target="_blank" rel="noopener" class="btn-gold mt-8">
+        Coordinar visita por WhatsApp
+      </a>
+    </div>
+  </section>
+</Layout>

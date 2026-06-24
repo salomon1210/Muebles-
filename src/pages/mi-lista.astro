@@ -1,0 +1,19 @@
+---
+import Layout from '../layouts/Layout.astro';
+import WishlistView from '../components/WishlistView.tsx';
+---
+
+<Layout title="Mi lista" description="Tu lista de deseos. Enviala y te cotizamos el proyecto completo.">
+  <section class="container-px mx-auto max-w-7xl pt-14 pb-6">
+    <p class="eyebrow">Tu proyecto</p>
+    <h1 class="font-display text-4xl lg:text-6xl mt-3">Mi lista</h1>
+    <p class="mt-4 text-noir/65 max-w-prose2 leading-relaxed">
+      Revisá los productos, ajustá cantidades e indicá el ambiente de cada uno. Cuando estés
+      listo, completá tus datos y enviá la lista: te llega por WhatsApp y te cotizamos todo.
+    </p>
+  </section>
+
+  <section class="container-px mx-auto max-w-7xl pb-24">
+    <WishlistView client:load />
+  </section>
+</Layout>

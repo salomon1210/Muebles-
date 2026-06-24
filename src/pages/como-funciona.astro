@@ -1,0 +1,76 @@
+---
+import Layout from '../layouts/Layout.astro';
+import { whatsappLink, site } from '../config';
+
+const pasos = [
+  { n: '01', t: 'Elegís del catálogo', d: 'Navegás la vidriera curada y armás tu lista de deseos con la cantidad y el ambiente de cada producto. Sin precios a la vista, sin presión de venta.' },
+  { n: '02', t: 'Nos enviás tu lista', d: 'Cuando terminás, completás tus datos y la lista nos llega por WhatsApp. No hay pagos ni cotizaciones automáticas: cada proyecto es distinto.' },
+  { n: '03', t: 'Cotizamos y te pasamos precio cerrado', d: 'Cotizamos con la fábrica y el despachante el proyecto completo (productos + flete + importación) y te pasamos un precio final cerrado, sin sorpresas.' },
+  { n: '04', t: 'Confirmás, abonás e importamos', d: 'Si te cierra, confirmás y abonás. Coordinamos la producción y la importación, y te mantenemos al tanto hasta que tus muebles llegan a tu casa.' },
+];
+
+const transparencia = [
+  {
+    t: '¿Por qué los precios son accesibles?',
+    d: 'Porque compramos directo a la fábrica, sin la cadena de importadores, showrooms y revendedores que infla los precios en Argentina. Es un proyecto de pasión con trato directo: te trasladamos ese ahorro.',
+  },
+  {
+    t: '¿Accesible significa mala calidad?',
+    d: 'No. Son las mismas fábricas que producen para las grandes casas italianas de lujo. Los mismos materiales y terminaciones; lo que cambia es que te salteás el markup, no la calidad. Podés verlo y tocarlo en el showroom.',
+  },
+  {
+    t: '¿Cuánto tarda la importación?',
+    d: 'Es un proceso de importación real: entre la producción en fábrica y el despacho aduanero, los tiempos son largos y los dejamos claros desde el inicio. Te damos un plazo estimado al cotizar y te avisamos en cada etapa. La transparencia en los tiempos es parte del trato.',
+  },
+];
+---
+
+<Layout title="Cómo funciona" description="El proceso de importación, paso a paso. Transparencia total: tiempos, precios y calidad.">
+  <section class="container-px mx-auto max-w-7xl pt-14 pb-10">
+    <p class="eyebrow">Transparencia total</p>
+    <h1 class="font-display text-4xl lg:text-6xl mt-3">Cómo funciona</h1>
+    <p class="mt-5 text-noir/70 max-w-prose2 leading-relaxed">
+      Un modelo simple y sin letra chica. Vos elegís, nosotros cotizamos e importamos.
+      Esto es lo que pasa de principio a fin.
+    </p>
+  </section>
+
+  <!-- Pasos -->
+  <section class="container-px mx-auto max-w-7xl pb-16">
+    <div class="space-y-px">
+      {pasos.map((p) => (
+        <div class="grid md:grid-cols-[120px_1fr] gap-4 md:gap-10 py-8 border-t border-noir/10">
+          <p class="font-display text-5xl text-oro/70">{p.n}</p>
+          <div>
+            <h2 class="font-display text-2xl lg:text-3xl">{p.t}</h2>
+            <p class="mt-3 text-noir/70 leading-relaxed max-w-prose2">{p.d}</p>
+          </div>
+        </div>
+      ))}
+    </div>
+  </section>
+
+  <!-- Transparencia -->
+  <section class="bg-crema-50 border-y border-noir/10">
+    <div class="container-px mx-auto max-w-7xl py-20">
+      <h2 class="font-display text-3xl lg:text-4xl text-center mb-14">Sin vueltas</h2>
+      <div class="grid lg:grid-cols-3 gap-10">
+        {transparencia.map((b) => (
+          <div>
+            <h3 class="font-display text-2xl text-oro">{b.t}</h3>
+            <p class="mt-3 text-noir/70 leading-relaxed">{b.d}</p>
+          </div>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <!-- CTA -->
+  <section class="container-px mx-auto max-w-7xl py-20 text-center">
+    <h2 class="font-display text-3xl lg:text-4xl">¿Listo para armar tu casa?</h2>
+    <div class="mt-8 flex flex-wrap gap-4 justify-center">
+      <a href="/catalogo" class="btn-primary">Ver el catálogo</a>
+      <a href={whatsappLink('Hola, tengo una consulta sobre cómo funciona ' + site.nombre + '.')} target="_blank" rel="noopener" class="btn-outline">Hacer una consulta</a>
+    </div>
+  </section>
+</Layout>

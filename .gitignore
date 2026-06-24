@@ -1,0 +1,22 @@
+# build output
+dist/
+.output/
+.vercel/
+
+# dependencies
+node_modules/
+
+# generated catalog (se regenera en cada build desde el seed o Supabase)
+src/data/catalog.generated.json
+
+# env & secrets — NUNCA commitear claves de Supabase
+.env
+.env.*
+!.env.example
+
+# astro
+.astro/
+
+# logs / os
+*.log
+.DS_Store

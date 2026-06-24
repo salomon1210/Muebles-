@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="1000" viewBox="0 0 800 1000">
+  <rect width="800" height="1000" fill="#16130f"/>
+  <rect x="60" y="60" width="680" height="880" fill="none" stroke="#b08d4f" stroke-width="2"/>
+  <text x="400" y="500" text-anchor="middle" fill="#c9b896" font-family="Georgia, serif" font-size="40" letter-spacing="8">AMBIENTE</text>
+  <text x="400" y="560" text-anchor="middle" fill="#b08d4f" font-family="Georgia, serif" font-size="22" letter-spacing="4">Foto de muestra</text>
+</svg>

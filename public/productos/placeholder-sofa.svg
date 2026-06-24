@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="1000" viewBox="0 0 800 1000">
+  <rect width="800" height="1000" fill="#ece3d3"/>
+  <g fill="none" stroke="#a8946f" stroke-width="3">
+    <rect x="160" y="500" width="480" height="190" rx="14"/>
+    <rect x="160" y="430" width="80" height="260" rx="14"/>
+    <rect x="560" y="430" width="80" height="260" rx="14"/>
+    <rect x="240" y="470" width="320" height="70" rx="10"/>
+    <line x1="210" y1="690" x2="210" y2="740"/>
+    <line x1="590" y1="690" x2="590" y2="740"/>
+  </g>
+  <text x="400" y="850" text-anchor="middle" fill="#b08d4f" font-family="Georgia, serif" font-size="34" letter-spacing="6">MILANO HOME</text>
+  <text x="400" y="890" text-anchor="middle" fill="#a8946f" font-family="Georgia, serif" font-size="20" letter-spacing="4">Foto de muestra</text>
+</svg>

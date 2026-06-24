@@ -1,0 +1,120 @@
+---
+import Layout from '../layouts/Layout.astro';
+import ProductCard from '../components/ProductCard.astro';
+import { site, whatsappLink } from '../config';
+import { productosDestacados } from '../lib/catalog';
+
+const destacados = productosDestacados();
+
+const pasos = [
+  { n: '01', t: 'Elegís', d: 'Navegás el catálogo curado y armás tu lista de deseos con cantidad y ambiente. Sin precios, sin presión.' },
+  { n: '02', t: 'Te cotizamos', d: 'Recibimos tu lista y cotizamos el proyecto completo con la fábrica y el despachante. Te pasamos un precio cerrado.' },
+  { n: '03', t: 'Confirmás', d: 'Si te cierra, confirmás y abonás. Todo transparente: tiempos de importación claros desde el inicio.' },
+  { n: '04', t: 'Importamos', d: 'Traemos tus muebles directo de fábrica hasta tu casa. Calidad de las grandes marcas, sin el markup local.' },
+];
+---
+
+<Layout>
+  <!-- HERO -->
+  <section class="relative bg-noir text-crema-100 overflow-hidden">
+    <div class="container-px mx-auto max-w-7xl py-24 lg:py-36 relative z-10">
+      <p class="eyebrow mb-6">Muebles de importación premium · Argentina</p>
+      <h1 class="font-display text-4xl sm:text-6xl lg:text-7xl leading-[1.05] max-w-4xl">
+        Las mismas fábricas que producen para las grandes casas italianas, en tu hogar,
+        <span class="text-oro"> sin el precio argentino.</span>
+      </h1>
+      <p class="mt-8 text-lg text-crema-200/80 max-w-2xl leading-relaxed">
+        Importamos muebles de lujo directo de las fábricas que fabrican para las grandes
+        marcas italianas. Vos elegís del catálogo, nosotros cotizamos tu proyecto completo.
+      </p>
+      <div class="mt-10 flex flex-wrap gap-4">
+        <a href="/catalogo" class="btn-gold">Ver el catálogo</a>
+        <a href="/como-funciona" class="btn-outline border-crema-200/40 text-crema-100 hover:text-oro">Cómo funciona</a>
+      </div>
+    </div>
+    <div class="absolute inset-0 opacity-[0.07] pointer-events-none"
+      style="background-image: radial-gradient(circle at 80% 20%, #b08d4f 0%, transparent 45%);"></div>
+  </section>
+
+  <!-- PROPUESTA DE VALOR -->
+  <section class="container-px mx-auto max-w-7xl py-20 lg:py-28">
+    <div class="grid md:grid-cols-3 gap-12">
+      <div>
+        <p class="font-display text-5xl text-oro">·</p>
+        <h3 class="font-display text-2xl mt-2">Calidad de lujo real</h3>
+        <p class="mt-3 text-noir/65 leading-relaxed">Producción de las mismas fábricas que abastecen a las grandes casas italianas. Materiales nobles y terminaciones de alta gama.</p>
+      </div>
+      <div>
+        <p class="font-display text-5xl text-oro">·</p>
+        <h3 class="font-display text-2xl mt-2">Precio sin intermediarios</h3>
+        <p class="mt-3 text-noir/65 leading-relaxed">Trato directo con fábrica. Te ahorrás el markup del mercado local. Un proyecto de pasión, no una cadena de reventa.</p>
+      </div>
+      <div>
+        <p class="font-display text-5xl text-oro">·</p>
+        <h3 class="font-display text-2xl mt-2">Transparencia total</h3>
+        <p class="mt-3 text-noir/65 leading-relaxed">Sin letra chica. Tiempos de importación claros desde el primer día y un precio cerrado antes de que decidas.</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- CÓMO FUNCIONA (4 pasos) -->
+  <section class="bg-crema-50 border-y border-noir/10">
+    <div class="container-px mx-auto max-w-7xl py-20 lg:py-28">
+      <div class="text-center mb-16">
+        <p class="eyebrow">Simple y transparente</p>
+        <h2 class="font-display text-4xl lg:text-5xl mt-3">Cómo funciona</h2>
+      </div>
+      <div class="grid sm:grid-cols-2 lg:grid-cols-4 gap-10">
+        {pasos.map((p) => (
+          <div>
+            <p class="font-display text-5xl text-oro/70">{p.n}</p>
+            <h3 class="font-display text-2xl mt-3">{p.t}</h3>
+            <p class="mt-2 text-noir/65 leading-relaxed text-[15px]">{p.d}</p>
+          </div>
+        ))}
+      </div>
+      <div class="text-center mt-14">
+        <a href="/como-funciona" class="btn-outline">Leer el proceso completo</a>
+      </div>
+    </div>
+  </section>
+
+  <!-- DESTACADOS -->
+  <section class="container-px mx-auto max-w-7xl py-20 lg:py-28">
+    <div class="flex items-end justify-between mb-12">
+      <div>
+        <p class="eyebrow">Selección</p>
+        <h2 class="font-display text-4xl lg:text-5xl mt-3">Piezas destacadas</h2>
+      </div>
+      <a href="/catalogo" class="hidden sm:inline-block link-underline text-sm uppercase tracking-widest text-oro">Ver todo →</a>
+    </div>
+    <div class="grid grid-cols-2 lg:grid-cols-3 gap-x-6 gap-y-12">
+      {destacados.map((p) => <ProductCard producto={p} />)}
+    </div>
+    <div class="text-center mt-12 sm:hidden">
+      <a href="/catalogo" class="btn-primary">Ver el catálogo</a>
+    </div>
+  </section>
+
+  <!-- SHOWROOM TEASER -->
+  <section class="bg-noir text-crema-100">
+    <div class="container-px mx-auto max-w-7xl py-20 lg:py-28 grid lg:grid-cols-2 gap-12 items-center">
+      <div>
+        <p class="eyebrow">La prueba está en mi casa</p>
+        <h2 class="font-display text-4xl lg:text-5xl mt-3">Vení a ver y tocar la calidad</h2>
+        <p class="mt-5 text-crema-200/80 leading-relaxed max-w-prose2">
+          Mi propia casa es el showroom. Amueblada con estos mismos productos, para que veas
+          en persona los materiales y las terminaciones antes de decidir. Te invito a visitarla.
+        </p>
+        <div class="mt-8 flex flex-wrap gap-4">
+          <a href="/showroom" class="btn-gold">Ver el showroom</a>
+          <a href={whatsappLink('Hola, me gustaría coordinar una visita al showroom de ' + site.nombre + '.')} target="_blank" rel="noopener" class="btn-outline border-crema-200/40 text-crema-100 hover:text-oro">Coordinar visita</a>
+        </div>
+      </div>
+      <div class="grid grid-cols-2 gap-3">
+        <img src="/showroom/casa-1.svg" alt="Showroom" class="w-full aspect-[4/3] object-cover" />
+        <img src="/showroom/casa-2.svg" alt="Showroom" class="w-full aspect-[4/3] object-cover mt-8" />
+      </div>
+    </div>
+  </section>
+</Layout>

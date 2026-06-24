@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="750" viewBox="0 0 1000 750">
+  <rect width="1000" height="750" fill="#211d17"/>
+  <rect x="50" y="50" width="900" height="650" fill="none" stroke="#b08d4f" stroke-width="2"/>
+  <text x="500" y="370" text-anchor="middle" fill="#c9b896" font-family="Georgia, serif" font-size="40" letter-spacing="6">MI CASA · SHOWROOM</text>
+  <text x="500" y="420" text-anchor="middle" fill="#b08d4f" font-family="Georgia, serif" font-size="20" letter-spacing="3">Reemplazá con tus fotos reales</text>
+</svg>

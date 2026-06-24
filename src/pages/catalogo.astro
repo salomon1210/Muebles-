@@ -1,0 +1,47 @@
+---
+import Layout from '../layouts/Layout.astro';
+import CatalogBrowser from '../components/CatalogBrowser.tsx';
+import {
+  productos,
+  imagenPrincipal,
+  nombreCategoria,
+  nombreAmbiente,
+  ambientesConProductos,
+  CATEGORIAS,
+} from '../lib/catalog';
+
+// Preparamos una versión "liviana" y serializable para la isla (solo público).
+const productosLite = productos.map((p) => ({
+  codigo: p.codigo,
+  nombre: p.nombre,
+  categoria: p.categoria,
+  categoriaNombre: nombreCategoria(p.categoria),
+  ambientes: p.ambientes,
+  ambientesNombres: p.ambientes.map(nombreAmbiente),
+  medidas: p.medidas,
+  imagen: imagenPrincipal(p)?.url ?? null,
+}));
+
+const ambientes = ambientesConProductos().map((a) => ({ id: a.id, nombre: a.nombre }));
+// Solo categorías que tengan productos.
+const categorias = CATEGORIAS.filter((c) => productos.some((p) => p.categoria === c.id)).map((c) => ({
+  id: c.id,
+  nombre: c.nombre,
+}));
+---
+
+<Layout title="Catálogo" description="Catálogo curado de muebles de importación premium. Filtrá por ambiente y categoría, o buscá por código.">
+  <section class="container-px mx-auto max-w-7xl pt-14 pb-8">
+    <p class="eyebrow">Vidriera curada</p>
+    <h1 class="font-display text-4xl lg:text-6xl mt-3">El catálogo</h1>
+    <p class="mt-4 text-noir/65 max-w-prose2 leading-relaxed">
+      Elegí un ambiente para empezar a armar tu casa. Agregá lo que te guste a tu lista y, cuando
+      termines, te cotizamos el proyecto completo. La web no muestra precios: cada proyecto se
+      cotiza a medida.
+    </p>
+  </section>
+
+  <section class="container-px mx-auto max-w-7xl pb-24">
+    <CatalogBrowser client:load productos={productosLite} ambientes={ambientes} categorias={categorias} />
+  </section>
+</Layout>

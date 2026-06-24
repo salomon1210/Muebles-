@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="1000" viewBox="0 0 800 1000">
+  <rect width="800" height="1000" fill="#c9b896"/>
+  <circle cx="400" cy="460" r="150" fill="none" stroke="#16130f" stroke-width="2" opacity="0.4"/>
+  <text x="400" y="700" text-anchor="middle" fill="#16130f" font-family="Georgia, serif" font-size="32" letter-spacing="6" opacity="0.7">DETALLE</text>
+  <text x="400" y="740" text-anchor="middle" fill="#16130f" font-family="Georgia, serif" font-size="18" letter-spacing="3" opacity="0.5">Foto de muestra</text>
+</svg>

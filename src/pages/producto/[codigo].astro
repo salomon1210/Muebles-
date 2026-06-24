@@ -1,0 +1,126 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import AddToListButton from '../../components/AddToListButton.tsx';
+import { site } from '../../config';
+import { productos, getProducto, imagenPrincipal, nombreCategoria, nombreAmbiente } from '../../lib/catalog';
+
+export function getStaticPaths() {
+  return productos.map((p) => ({ params: { codigo: p.codigo } }));
+}
+
+const { codigo } = Astro.params;
+const producto = getProducto(codigo!);
+if (!producto) return Astro.redirect('/catalogo');
+
+const principal = imagenPrincipal(producto);
+const galeria = producto.imagenes.length ? producto.imagenes : principal ? [principal] : [];
+const ambientesNombres = producto.ambientes.map(nombreAmbiente);
+
+// JSON-LD de producto SIN precio (no es e-commerce).
+const jsonLd = {
+  '@context': 'https://schema.org',
+  '@type': 'Product',
+  name: producto.nombre,
+  sku: producto.codigo,
+  category: nombreCategoria(producto.categoria),
+  description: producto.descripcion || producto.materiales,
+  image: galeria.map((g) => new URL(g.url, Astro.site).toString()),
+  brand: { '@type': 'Brand', name: site.nombre },
+};
+---
+
+<Layout title={producto.nombre} description={producto.descripcion || producto.materiales} image={principal?.url}>
+  <script type="application/ld+json" set:html={JSON.stringify(jsonLd)} slot="head" />
+
+  <section class="container-px mx-auto max-w-7xl py-10 lg:py-16">
+    <nav class="text-xs uppercase tracking-widest text-noir/45 mb-8">
+      <a href="/catalogo" class="hover:text-oro">Catálogo</a>
+      <span class="mx-2">/</span>
+      <span class="text-oro">{nombreCategoria(producto.categoria)}</span>
+    </nav>
+
+    <div class="grid lg:grid-cols-2 gap-10 lg:gap-16 items-start">
+      <!-- Galería -->
+      <div>
+        <div class="aspect-[4/5] bg-crema-200 overflow-hidden">
+          {principal ? (
+            <img id="main-image" src={principal.url} alt={principal.alt ?? producto.nombre} class="w-full h-full object-cover" />
+          ) : (
+            <div class="w-full h-full flex items-center justify-center text-noir/30">Sin foto</div>
+          )}
+        </div>
+        {galeria.length > 1 && (
+          <div class="grid grid-cols-4 gap-3 mt-3">
+            {galeria.map((g) => (
+              <button
+                class="aspect-square bg-crema-200 overflow-hidden border border-transparent hover:border-oro thumb"
+                data-src={g.url}
+                aria-label={g.alt ?? 'Ver foto'}
+              >
+                <img src={g.url} alt={g.alt ?? producto.nombre} class="w-full h-full object-cover" loading="lazy" />
+              </button>
+            ))}
+          </div>
+        )}
+      </div>
+
+      <!-- Info -->
+      <div class="lg:sticky lg:top-24">
+        <p class="text-xs uppercase tracking-widest text-oro">{producto.codigo} · {nombreCategoria(producto.categoria)}</p>
+        <h1 class="font-display text-4xl lg:text-5xl mt-2 leading-tight">{producto.nombre}</h1>
+
+        {ambientesNombres.length > 0 && (
+          <div class="flex flex-wrap gap-2 mt-4">
+            {ambientesNombres.map((a) => (
+              <span class="text-[11px] uppercase tracking-widest border border-noir/20 px-3 py-1 text-noir/60">{a}</span>
+            ))}
+          </div>
+        )}
+
+        {producto.descripcion && <p class="mt-6 text-noir/70 leading-relaxed max-w-prose2">{producto.descripcion}</p>}
+
+        <dl class="mt-8 divide-y divide-noir/10 border-y border-noir/10">
+          {producto.medidas && (
+            <div class="py-4 flex gap-6">
+              <dt class="w-32 flex-shrink-0 text-xs uppercase tracking-widest text-noir/45">Medidas</dt>
+              <dd class="text-noir/80">{producto.medidas}</dd>
+            </div>
+          )}
+          {producto.materiales && (
+            <div class="py-4 flex gap-6">
+              <dt class="w-32 flex-shrink-0 text-xs uppercase tracking-widest text-noir/45">Materiales</dt>
+              <dd class="text-noir/80">{producto.materiales}</dd>
+            </div>
+          )}
+        </dl>
+
+        <div class="mt-8">
+          <AddToListButton
+            client:load
+            codigo={producto.codigo}
+            nombre={producto.nombre}
+            imagen={principal?.url ?? ''}
+            ambientesSugeridos={ambientesNombres}
+            variant="full"
+          />
+        </div>
+
+        <p class="mt-6 text-sm text-noir/50 leading-relaxed">
+          No mostramos precios: cada proyecto se cotiza a medida según fábrica, flete e importación.
+          Armá tu lista y te pasamos un precio cerrado.
+        </p>
+      </div>
+    </div>
+  </section>
+
+  <script>
+    // Cambiar la imagen principal al tocar una miniatura.
+    const main = document.getElementById('main-image') as HTMLImageElement | null;
+    document.querySelectorAll('.thumb').forEach((btn) => {
+      btn.addEventListener('click', () => {
+        const src = btn.getAttribute('data-src');
+        if (main && src) main.src = src;
+      });
+    });
+  </script>
+</Layout>

@@ -1,0 +1,33 @@
+---
+import type { Producto } from '../lib/catalog';
+import { imagenPrincipal, nombreCategoria } from '../lib/catalog';
+
+export interface Props {
+  producto: Producto;
+}
+const { producto } = Astro.props;
+const img = imagenPrincipal(producto);
+---
+
+<a href={`/producto/${producto.codigo}`} class="group block">
+  <div class="relative aspect-[4/5] overflow-hidden bg-crema-200">
+    {img ? (
+      <img
+        src={img.url}
+        alt={img.alt ?? producto.nombre}
+        loading="lazy"
+        class="w-full h-full object-cover transition-transform duration-700 group-hover:scale-105"
+      />
+    ) : (
+      <div class="w-full h-full flex items-center justify-center text-noir/30 text-sm">Sin foto</div>
+    )}
+    <span class="absolute top-3 left-3 bg-crema-100/90 text-noir text-[11px] tracking-widest uppercase px-2 py-1">
+      {producto.codigo}
+    </span>
+  </div>
+  <div class="pt-4">
+    <p class="text-[11px] uppercase tracking-widest text-oro">{nombreCategoria(producto.categoria)}</p>
+    <h3 class="font-display text-xl mt-1 leading-snug group-hover:text-oro transition-colors">{producto.nombre}</h3>
+    {producto.medidas && <p class="text-sm text-noir/55 mt-1">{producto.medidas}</p>}
+  </div>
+</a>

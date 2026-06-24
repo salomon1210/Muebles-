@@ -1,0 +1,56 @@
+/* Fuentes (self-hosted vía @fontsource, sin pedir a Google en runtime). */
+@import '@fontsource/cormorant-garamond/400.css';
+@import '@fontsource/cormorant-garamond/500.css';
+@import '@fontsource/cormorant-garamond/600.css';
+@import '@fontsource/jost/300.css';
+@import '@fontsource/jost/400.css';
+@import '@fontsource/jost/500.css';
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+  body {
+    @apply bg-crema-100 text-noir font-sans antialiased;
+  }
+  h1, h2, h3, h4 {
+    @apply font-display font-medium tracking-tight;
+  }
+  ::selection {
+    @apply bg-oro/30 text-noir;
+  }
+}
+
+@layer components {
+  .eyebrow {
+    @apply text-xs uppercase tracking-widest2 text-oro font-medium;
+  }
+  .btn {
+    @apply inline-flex items-center justify-center gap-2 px-6 py-3 text-sm uppercase
+           tracking-widest font-medium transition-colors duration-300 cursor-pointer;
+  }
+  .btn-primary {
+    @apply btn bg-noir text-crema-100 hover:bg-oro hover:text-noir;
+  }
+  .btn-outline {
+    @apply btn border border-noir/30 text-noir hover:border-oro hover:text-oro;
+  }
+  .btn-gold {
+    @apply btn bg-oro text-noir hover:bg-noir hover:text-crema-100;
+  }
+  .container-px {
+    @apply px-5 sm:px-8 lg:px-12;
+  }
+  .field {
+    @apply w-full bg-transparent border border-noir/20 px-4 py-3 text-sm
+           focus:border-oro focus:outline-none transition-colors placeholder:text-noir/40;
+  }
+  .link-underline {
+    @apply relative after:absolute after:left-0 after:-bottom-0.5 after:h-px after:w-0
+           after:bg-oro after:transition-all hover:after:w-full;
+  }
+}

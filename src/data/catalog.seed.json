@@ -1,0 +1,31 @@
+[
+  {
+    "codigo": "SF6011",
+    "nombre": "Sofá modular Como",
+    "categoria": "sofas",
+    "ambientes": ["living"],
+    "medidas": "320 × 95 × 70 cm",
+    "materiales": "Tapizado en lino italiano, estructura de madera de haya maciza, relleno de espuma HR de alta densidad y plumón.",
+    "descripcion": "Sofá modular de líneas puras y proporciones generosas, pensado para grandes espacios de estar. Asientos profundos y respaldos envolventes que combinan confort y presencia. Se configura en distintos largos según el ambiente.",
+    "destacado": true,
+    "imagenes": [
+      { "url": "/productos/placeholder-sofa.svg", "rol": "principal", "alt": "Sofá modular Como" },
+      { "url": "/productos/placeholder-ambiente.svg", "rol": "ambiente", "alt": "Sofá Como en living" },
+      { "url": "/productos/placeholder-detalle.svg", "rol": "detalle", "alt": "Detalle del tapizado" }
+    ]
+  },
+  {
+    "codigo": "DT6701",
+    "nombre": "Mesa de comedor Travertino",
+    "categoria": "mesas",
+    "ambientes": ["comedor"],
+    "medidas": "240 × 100 × 75 cm",
+    "materiales": "Tapa de mármol travertino natural, base escultórica en metal con terminación bronce satinado.",
+    "descripcion": "Mesa de comedor para ocho comensales con una tapa de travertino de veta cálida y una base escultórica que parece flotar. Una pieza central que define el ambiente.",
+    "destacado": true,
+    "imagenes": [
+      { "url": "/productos/placeholder-mesa.svg", "rol": "principal", "alt": "Mesa de comedor Travertino" },
+      { "url": "/productos/placeholder-ambiente.svg", "rol": "ambiente", "alt": "Mesa Travertino en comedor" }
+    ]
+  }
+]

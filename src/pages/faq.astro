@@ -1,0 +1,34 @@
+---
+import Layout from '../layouts/Layout.astro';
+import Faq from '../components/Faq.astro';
+import { whatsappLink, site } from '../config';
+
+const faqs = [
+  { q: '¿Por qué la web no muestra precios?', a: 'Porque no es un e-commerce: es una vidriera curada. Cada proyecto se cotiza a medida según los productos, el flete y la importación. Armás tu lista y te pasamos un precio cerrado, sin sorpresas.' },
+  { q: '¿Cómo armo mi pedido?', a: 'Navegás el catálogo, agregás los productos que te gusten a "Mi lista" indicando cantidad y ambiente, y al terminar completás tus datos. La lista nos llega por WhatsApp y la cotizamos.' },
+  { q: '¿Tengo que pagar algo para que me coticen?', a: 'No. Cotizar es sin costo y sin compromiso. Recién abonás si confirmás el proyecto con el precio cerrado.' },
+  { q: '¿Cuánto tarda en llegar?', a: 'Es una importación real, así que los tiempos son largos y te los dejamos claros desde el inicio. Al cotizar te damos un plazo estimado y te vamos avisando en cada etapa.' },
+  { q: '¿La calidad es buena si el precio es bajo?', a: 'Sí. Son las mismas fábricas que producen para las grandes casas italianas de lujo. El precio es más bajo porque compramos directo, sin intermediarios; la calidad es la misma.' },
+  { q: '¿Puedo ver los muebles antes de comprar?', a: 'Sí. Mi propia casa es el showroom, amueblada con estos productos. Coordinamos una visita por WhatsApp y los ves y tocás en persona.' },
+  { q: '¿Hacen envíos a todo el país?', a: 'Coordinamos la entrega según tu zona. Contanos dónde estás cuando nos escribas y lo vemos.' },
+  { q: '¿Puedo pedir un producto que no está en el catálogo?', a: 'Muchas veces sí. Si viste algo puntual de las casas italianas, escribinos con la referencia y averiguamos si podemos conseguirlo de fábrica.' },
+];
+---
+
+<Layout title="Preguntas frecuentes" description="Respuestas a las dudas más comunes sobre el proceso, los tiempos y la calidad.">
+  <section class="container-px mx-auto max-w-3xl pt-14 pb-10">
+    <p class="eyebrow">Dudas</p>
+    <h1 class="font-display text-4xl lg:text-6xl mt-3">Preguntas frecuentes</h1>
+  </section>
+
+  <section class="container-px mx-auto max-w-3xl pb-16">
+    <Faq items={faqs} />
+  </section>
+
+  <section class="container-px mx-auto max-w-3xl pb-24 text-center">
+    <p class="text-noir/65">¿No encontraste tu respuesta?</p>
+    <a href={whatsappLink('Hola, tengo una consulta sobre ' + site.nombre + '.')} target="_blank" rel="noopener" class="btn-gold mt-5">
+      Escribinos por WhatsApp
+    </a>
+  </section>
+</Layout>
