@@ -1,31 +1,3590 @@
 [
   {
-    "codigo": "SF6011",
-    "nombre": "Sofá modular Como",
-    "categoria": "sofas",
-    "ambientes": ["living"],
-    "medidas": "320 × 95 × 70 cm",
-    "materiales": "Tapizado en lino italiano, estructura de madera de haya maciza, relleno de espuma HR de alta densidad y plumón.",
-    "descripcion": "Sofá modular de líneas puras y proporciones generosas, pensado para grandes espacios de estar. Asientos profundos y respaldos envolventes que combinan confort y presencia. Se configura en distintos largos según el ambiente.",
-    "destacado": true,
-    "imagenes": [
-      { "url": "/productos/placeholder-sofa.svg", "rol": "principal", "alt": "Sofá modular Como" },
-      { "url": "/productos/placeholder-ambiente.svg", "rol": "ambiente", "alt": "Sofá Como en living" },
-      { "url": "/productos/placeholder-detalle.svg", "rol": "detalle", "alt": "Detalle del tapizado" }
-    ]
+    "codigo": "6601",
+    "nombre": "Sillones 6601",
+    "categoria": "sillones",
+    "ambientes": [
+      "living"
+    ],
+    "medidas": "",
+    "materiales": "",
+    "descripcion": "Sillón de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "BD6011",
+    "nombre": "Cama BD6011",
+    "categoria": "camas",
+    "ambientes": [
+      "dormitorio"
+    ],
+    "medidas": "",
+    "materiales": "",
+    "descripcion": "Cama de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "BN6011",
+    "nombre": "Banqueta BN6011",
+    "categoria": "banquetas",
+    "ambientes": [
+      "dormitorio"
+    ],
+    "medidas": "140 × 40 × 42 cm",
+    "materiales": "",
+    "descripcion": "Banqueta de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "CD6011",
+    "nombre": "Banqueta CD6011",
+    "categoria": "banquetas",
+    "ambientes": [
+      "dormitorio"
+    ],
+    "medidas": "",
+    "materiales": "",
+    "descripcion": "Banqueta de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "CD6018",
+    "nombre": "Banqueta CD6018",
+    "categoria": "banquetas",
+    "ambientes": [
+      "dormitorio"
+    ],
+    "medidas": "40 × 35 × 62 cm",
+    "materiales": "",
+    "descripcion": "Banqueta de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "CH-273A",
+    "nombre": "Silla de comedor CH-273A",
+    "categoria": "sillas",
+    "ambientes": [
+      "comedor"
+    ],
+    "medidas": "55 × 58 × 80 cm",
+    "materiales": "",
+    "descripcion": "Silla de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "CH6018",
+    "nombre": "Sillon CH6018",
+    "categoria": "sillones",
+    "ambientes": [
+      "living"
+    ],
+    "medidas": "87 × 66 × 70 cm",
+    "materiales": "",
+    "descripcion": "Sillón de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "CH6702",
+    "nombre": "Silla de comedor CH6702",
+    "categoria": "sillas",
+    "ambientes": [
+      "comedor"
+    ],
+    "medidas": "",
+    "materiales": "",
+    "descripcion": "Silla de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "CH6703",
+    "nombre": "Silla de comedor CH6703",
+    "categoria": "sillas",
+    "ambientes": [
+      "comedor"
+    ],
+    "medidas": "",
+    "materiales": "",
+    "descripcion": "Silla de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "CH6706",
+    "nombre": "Silla de comedor CH6706",
+    "categoria": "sillas",
+    "ambientes": [
+      "comedor"
+    ],
+    "medidas": "",
+    "materiales": "",
+    "descripcion": "Silla de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "CH6707",
+    "nombre": "Silla de comedor CH6707",
+    "categoria": "sillas",
+    "ambientes": [
+      "comedor"
+    ],
+    "medidas": "",
+    "materiales": "",
+    "descripcion": "Silla de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "CH6708",
+    "nombre": "Silla de comedor CH6708",
+    "categoria": "sillas",
+    "ambientes": [
+      "comedor"
+    ],
+    "medidas": "",
+    "materiales": "",
+    "descripcion": "Silla de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "CH6709",
+    "nombre": "Silla de comedor CH6709",
+    "categoria": "sillas",
+    "ambientes": [
+      "comedor"
+    ],
+    "medidas": "",
+    "materiales": "",
+    "descripcion": "Silla de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "CH6711",
+    "nombre": "Silla de comedor CH6711",
+    "categoria": "sillas",
+    "ambientes": [
+      "comedor"
+    ],
+    "medidas": "",
+    "materiales": "",
+    "descripcion": "Silla de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "CH6716",
+    "nombre": "Silla de comedor CH6716",
+    "categoria": "sillas",
+    "ambientes": [
+      "comedor"
+    ],
+    "medidas": "",
+    "materiales": "",
+    "descripcion": "Silla de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "CH6719",
+    "nombre": "Silla de comedor CH6719",
+    "categoria": "sillas",
+    "ambientes": [
+      "comedor"
+    ],
+    "medidas": "",
+    "materiales": "",
+    "descripcion": "Silla de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "CH6721",
+    "nombre": "Silla de comedor CH6721",
+    "categoria": "sillas",
+    "ambientes": [
+      "comedor"
+    ],
+    "medidas": "",
+    "materiales": "",
+    "descripcion": "Silla de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "CH6722",
+    "nombre": "Silla de comedor CH6722",
+    "categoria": "sillas",
+    "ambientes": [
+      "comedor"
+    ],
+    "medidas": "",
+    "materiales": "",
+    "descripcion": "Silla de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "CH6723",
+    "nombre": "Silla de comedor CH6723",
+    "categoria": "sillas",
+    "ambientes": [
+      "comedor"
+    ],
+    "medidas": "",
+    "materiales": "",
+    "descripcion": "Silla de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "CH6724",
+    "nombre": "Silla de comedor CH6724",
+    "categoria": "sillas",
+    "ambientes": [
+      "comedor"
+    ],
+    "medidas": "",
+    "materiales": "",
+    "descripcion": "Silla de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "CH6725",
+    "nombre": "Silla de comedor CH6725",
+    "categoria": "sillas",
+    "ambientes": [
+      "comedor"
+    ],
+    "medidas": "",
+    "materiales": "",
+    "descripcion": "Silla de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "CH6726",
+    "nombre": "Silla de comedor CH6726",
+    "categoria": "sillas",
+    "ambientes": [
+      "comedor"
+    ],
+    "medidas": "",
+    "materiales": "",
+    "descripcion": "Silla de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "CH6727",
+    "nombre": "Silla de comedor CH6727",
+    "categoria": "sillas",
+    "ambientes": [
+      "comedor"
+    ],
+    "medidas": "",
+    "materiales": "",
+    "descripcion": "Silla de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "CH6729",
+    "nombre": "Silla de comedor CH6729",
+    "categoria": "sillas",
+    "ambientes": [
+      "comedor"
+    ],
+    "medidas": "",
+    "materiales": "",
+    "descripcion": "Silla de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "CH6730",
+    "nombre": "Silla de comedor CH6730",
+    "categoria": "sillas",
+    "ambientes": [
+      "comedor"
+    ],
+    "medidas": "",
+    "materiales": "",
+    "descripcion": "Silla de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "CH6731",
+    "nombre": "Silla de comedor CH6731",
+    "categoria": "sillas",
+    "ambientes": [
+      "comedor"
+    ],
+    "medidas": "",
+    "materiales": "",
+    "descripcion": "Silla de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "CH6732",
+    "nombre": "Silla de comedor CH6732",
+    "categoria": "sillas",
+    "ambientes": [
+      "comedor"
+    ],
+    "medidas": "",
+    "materiales": "",
+    "descripcion": "Silla de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "CH6733",
+    "nombre": "Silla de comedor CH6733",
+    "categoria": "sillas",
+    "ambientes": [
+      "comedor"
+    ],
+    "medidas": "",
+    "materiales": "",
+    "descripcion": "Silla de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "CH6734",
+    "nombre": "Silla de comedor CH6734",
+    "categoria": "sillas",
+    "ambientes": [
+      "comedor"
+    ],
+    "medidas": "",
+    "materiales": "",
+    "descripcion": "Silla de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "CH6735",
+    "nombre": "Silla de comedor CH6735",
+    "categoria": "sillas",
+    "ambientes": [
+      "comedor"
+    ],
+    "medidas": "",
+    "materiales": "",
+    "descripcion": "Silla de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "CH6736",
+    "nombre": "Silla de comedor CH6736",
+    "categoria": "sillas",
+    "ambientes": [
+      "comedor"
+    ],
+    "medidas": "",
+    "materiales": "",
+    "descripcion": "Silla de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "CH6737",
+    "nombre": "Silla de comedor CH6737",
+    "categoria": "sillas",
+    "ambientes": [
+      "comedor"
+    ],
+    "medidas": "",
+    "materiales": "",
+    "descripcion": "Silla de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "CH6738",
+    "nombre": "Silla de comedor CH6738",
+    "categoria": "sillas",
+    "ambientes": [
+      "comedor"
+    ],
+    "medidas": "",
+    "materiales": "",
+    "descripcion": "Silla de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "CH6739",
+    "nombre": "Silla de comedor CH6739",
+    "categoria": "sillas",
+    "ambientes": [
+      "comedor"
+    ],
+    "medidas": "",
+    "materiales": "",
+    "descripcion": "Silla de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "CH6740",
+    "nombre": "Silla de comedor CH6740",
+    "categoria": "sillas",
+    "ambientes": [
+      "comedor"
+    ],
+    "medidas": "",
+    "materiales": "",
+    "descripcion": "Silla de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "CH6741",
+    "nombre": "Silla de comedor CH6741",
+    "categoria": "sillas",
+    "ambientes": [
+      "comedor"
+    ],
+    "medidas": "",
+    "materiales": "",
+    "descripcion": "Silla de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "CH6870",
+    "nombre": "Sillon CH6870",
+    "categoria": "sillones",
+    "ambientes": [
+      "living"
+    ],
+    "medidas": "",
+    "materiales": "",
+    "descripcion": "Sillón de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "CH6871",
+    "nombre": "Sillon CH6871",
+    "categoria": "sillones",
+    "ambientes": [
+      "living"
+    ],
+    "medidas": "",
+    "materiales": "",
+    "descripcion": "Sillón de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "CH6872",
+    "nombre": "Sillon CH6872",
+    "categoria": "sillones",
+    "ambientes": [
+      "living"
+    ],
+    "medidas": "",
+    "materiales": "",
+    "descripcion": "Sillón de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "CH6876",
+    "nombre": "Sillon CH6876",
+    "categoria": "sillones",
+    "ambientes": [
+      "living"
+    ],
+    "medidas": "",
+    "materiales": "",
+    "descripcion": "Sillón de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "CH6877",
+    "nombre": "Sillon CH6877",
+    "categoria": "sillones",
+    "ambientes": [
+      "living"
+    ],
+    "medidas": "",
+    "materiales": "",
+    "descripcion": "Sillón de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "CH6878",
+    "nombre": "Sillon CH6878",
+    "categoria": "sillones",
+    "ambientes": [
+      "living"
+    ],
+    "medidas": "",
+    "materiales": "",
+    "descripcion": "Sillón de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "CH6879",
+    "nombre": "Sillon CH6879",
+    "categoria": "sillones",
+    "ambientes": [
+      "living"
+    ],
+    "medidas": "",
+    "materiales": "",
+    "descripcion": "Sillón de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "CH6880",
+    "nombre": "Sillon CH6880",
+    "categoria": "sillones",
+    "ambientes": [
+      "living"
+    ],
+    "medidas": "",
+    "materiales": "",
+    "descripcion": "Sillón de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "CH6881",
+    "nombre": "Sillon con puff CH6881",
+    "categoria": "sillones",
+    "ambientes": [
+      "living"
+    ],
+    "medidas": "",
+    "materiales": "",
+    "descripcion": "Sillón de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "CH6882",
+    "nombre": "Sillon con puff CH6882",
+    "categoria": "sillones",
+    "ambientes": [
+      "living"
+    ],
+    "medidas": "",
+    "materiales": "",
+    "descripcion": "Sillón de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "CJ6701",
+    "nombre": "Biblioteca CJ6701",
+    "categoria": "bibliotecas",
+    "ambientes": [
+      "living"
+    ],
+    "medidas": "",
+    "materiales": "",
+    "descripcion": "Biblioteca de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "CJ6701-1",
+    "nombre": "Biblioteca CJ6701-1",
+    "categoria": "bibliotecas",
+    "ambientes": [
+      "living"
+    ],
+    "medidas": "",
+    "materiales": "",
+    "descripcion": "Biblioteca de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "CJ6702",
+    "nombre": "Biblioteca CJ6702",
+    "categoria": "bibliotecas",
+    "ambientes": [
+      "living"
+    ],
+    "medidas": "",
+    "materiales": "",
+    "descripcion": "Biblioteca de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "CJ6702-1",
+    "nombre": "Biblioteca CJ6702-1",
+    "categoria": "bibliotecas",
+    "ambientes": [
+      "living"
+    ],
+    "medidas": "",
+    "materiales": "",
+    "descripcion": "Biblioteca de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "CJ6703",
+    "nombre": "Biblioteca CJ6703",
+    "categoria": "bibliotecas",
+    "ambientes": [
+      "living"
+    ],
+    "medidas": "",
+    "materiales": "",
+    "descripcion": "Biblioteca de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "CJ6704",
+    "nombre": "Biblioteca CJ6704",
+    "categoria": "bibliotecas",
+    "ambientes": [
+      "living"
+    ],
+    "medidas": "",
+    "materiales": "",
+    "descripcion": "Biblioteca de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "CJ6705",
+    "nombre": "Biblioteca CJ6705",
+    "categoria": "bibliotecas",
+    "ambientes": [
+      "living"
+    ],
+    "medidas": "",
+    "materiales": "",
+    "descripcion": "Biblioteca de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "CJ6706",
+    "nombre": "Biblioteca CJ6706",
+    "categoria": "bibliotecas",
+    "ambientes": [
+      "living"
+    ],
+    "medidas": "",
+    "materiales": "",
+    "descripcion": "Biblioteca de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "CJ6706-1",
+    "nombre": "Biblioteca CJ6706-1",
+    "categoria": "bibliotecas",
+    "ambientes": [
+      "living"
+    ],
+    "medidas": "",
+    "materiales": "",
+    "descripcion": "Biblioteca de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "CJ6707",
+    "nombre": "Biblioteca CJ6707",
+    "categoria": "bibliotecas",
+    "ambientes": [
+      "living"
+    ],
+    "medidas": "",
+    "materiales": "",
+    "descripcion": "Biblioteca de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "CJ6708",
+    "nombre": "Biblioteca CJ6708",
+    "categoria": "bibliotecas",
+    "ambientes": [
+      "living"
+    ],
+    "medidas": "",
+    "materiales": "",
+    "descripcion": "Biblioteca de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "CN3129",
+    "nombre": "Consola CN3129",
+    "categoria": "consolas",
+    "ambientes": [
+      "living"
+    ],
+    "medidas": "140 × 40 × 80 cm",
+    "materiales": "",
+    "descripcion": "Consola de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "CN3133",
+    "nombre": "Consola CN3133",
+    "categoria": "consolas",
+    "ambientes": [
+      "living"
+    ],
+    "medidas": "140 × 40 × 85 cm",
+    "materiales": "",
+    "descripcion": "Consola de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "CN6002",
+    "nombre": "Consola CN6002",
+    "categoria": "consolas",
+    "ambientes": [
+      "living"
+    ],
+    "medidas": "150 × 40 × 85 cm",
+    "materiales": "",
+    "descripcion": "Consola de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "CN6010",
+    "nombre": "Consola CN6010",
+    "categoria": "consolas",
+    "ambientes": [
+      "living"
+    ],
+    "medidas": "150 × 40 × 85 cm",
+    "materiales": "",
+    "descripcion": "Consola de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "CN6011",
+    "nombre": "Consola CN6011",
+    "categoria": "consolas",
+    "ambientes": [
+      "living"
+    ],
+    "medidas": "",
+    "materiales": "",
+    "descripcion": "Consola de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "CN6011-1",
+    "nombre": "Consola CN6011-1",
+    "categoria": "consolas",
+    "ambientes": [
+      "living"
+    ],
+    "medidas": "",
+    "materiales": "",
+    "descripcion": "Consola de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "CN6018",
+    "nombre": "Consola CN6018",
+    "categoria": "consolas",
+    "ambientes": [
+      "living"
+    ],
+    "medidas": "150 × 40 × 85 cm",
+    "materiales": "",
+    "descripcion": "Consola de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "CN6261",
+    "nombre": "Consola CN6261",
+    "categoria": "consolas",
+    "ambientes": [
+      "living"
+    ],
+    "medidas": "150 × 40 × 85 cm",
+    "materiales": "",
+    "descripcion": "Consola de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "CN7008",
+    "nombre": "Consola CN7008",
+    "categoria": "consolas",
+    "ambientes": [
+      "living"
+    ],
+    "medidas": "150 × 40 × 85 cm",
+    "materiales": "",
+    "descripcion": "Consola de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "CT5742",
+    "nombre": "Mesa de centro CT5742",
+    "categoria": "mesas-centro",
+    "ambientes": [
+      "living"
+    ],
+    "medidas": "Ø100 × 38 cm",
+    "materiales": "",
+    "descripcion": "Mesa de centro de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "CT6002",
+    "nombre": "Mesa de centro CT6002",
+    "categoria": "mesas-centro",
+    "ambientes": [
+      "living"
+    ],
+    "medidas": "140 × 70 × 42 cm",
+    "materiales": "",
+    "descripcion": "Mesa de centro de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "CT6010",
+    "nombre": "Mesa de centro CT6010",
+    "categoria": "mesas-centro",
+    "ambientes": [
+      "living"
+    ],
+    "medidas": "140 × 70 × 38 cm",
+    "materiales": "",
+    "descripcion": "Mesa de centro de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "CT6017",
+    "nombre": "Mesa de centro CT6017",
+    "categoria": "mesas-centro",
+    "ambientes": [
+      "living"
+    ],
+    "medidas": "140 × 90 × 38 cm",
+    "materiales": "",
+    "descripcion": "Mesa de centro de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "CT6018",
+    "nombre": "Mesa de centro CT6018",
+    "categoria": "mesas-centro",
+    "ambientes": [
+      "living"
+    ],
+    "medidas": "140 × 70 × 42 cm",
+    "materiales": "",
+    "descripcion": "Mesa de centro de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "CT6021",
+    "nombre": "Mesa de centro CT6021",
+    "categoria": "mesas-centro",
+    "ambientes": [
+      "living"
+    ],
+    "medidas": "150 × 65 × 68 cm",
+    "materiales": "",
+    "descripcion": "Mesa de centro de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "CT6022",
+    "nombre": "Mesa de centro CT6022",
+    "categoria": "mesas-centro",
+    "ambientes": [
+      "living"
+    ],
+    "medidas": "140 × 70 × 38 cm",
+    "materiales": "",
+    "descripcion": "Mesa de centro de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "CT6025",
+    "nombre": "Mesa de centro CT6025",
+    "categoria": "mesas-centro",
+    "ambientes": [
+      "living"
+    ],
+    "medidas": "120 × 80.5 × 38 cm",
+    "materiales": "",
+    "descripcion": "Mesa de centro de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "CT6026",
+    "nombre": "Mesa de centro CT6026",
+    "categoria": "mesas-centro",
+    "ambientes": [
+      "living"
+    ],
+    "medidas": "Ø100 × 38 cm",
+    "materiales": "",
+    "descripcion": "Mesa de centro de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "CT6028",
+    "nombre": "Mesa de centro CT6028",
+    "categoria": "mesas-centro",
+    "ambientes": [
+      "living"
+    ],
+    "medidas": "100 × 100 × 38 cm",
+    "materiales": "",
+    "descripcion": "Mesa de centro de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "CT6029",
+    "nombre": "Mesa de centro CT6029",
+    "categoria": "mesas-centro",
+    "ambientes": [
+      "living"
+    ],
+    "medidas": "Ø120 × 43 cm",
+    "materiales": "",
+    "descripcion": "Mesa de centro de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "CT6701",
+    "nombre": "Mesa de centro CT6701",
+    "categoria": "mesas-centro",
+    "ambientes": [
+      "living"
+    ],
+    "medidas": "",
+    "materiales": "",
+    "descripcion": "Mesa de centro de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "CT6702",
+    "nombre": "Mesa de centro CT6702",
+    "categoria": "mesas-centro",
+    "ambientes": [
+      "living"
+    ],
+    "medidas": "",
+    "materiales": "",
+    "descripcion": "Mesa de centro de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "CT6703",
+    "nombre": "Mesa de centro CT6703",
+    "categoria": "mesas-centro",
+    "ambientes": [
+      "living"
+    ],
+    "medidas": "",
+    "materiales": "",
+    "descripcion": "Mesa de centro de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "CT6703-1",
+    "nombre": "Mesa de centro CT6703-1",
+    "categoria": "mesas-centro",
+    "ambientes": [
+      "living"
+    ],
+    "medidas": "",
+    "materiales": "",
+    "descripcion": "Mesa de centro de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "CT6705",
+    "nombre": "Mesa de centro CT6705",
+    "categoria": "mesas-centro",
+    "ambientes": [
+      "living"
+    ],
+    "medidas": "",
+    "materiales": "",
+    "descripcion": "Mesa de centro de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "CT6708",
+    "nombre": "Mesa de centro CT6708",
+    "categoria": "mesas-centro",
+    "ambientes": [
+      "living"
+    ],
+    "medidas": "",
+    "materiales": "",
+    "descripcion": "Mesa de centro de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "CT6709",
+    "nombre": "Mesa de centro CT6709",
+    "categoria": "mesas-centro",
+    "ambientes": [
+      "living"
+    ],
+    "medidas": "",
+    "materiales": "",
+    "descripcion": "Mesa de centro de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "CT6709-1",
+    "nombre": "Mesa de centro CT6709-1",
+    "categoria": "mesas-centro",
+    "ambientes": [
+      "living"
+    ],
+    "medidas": "",
+    "materiales": "",
+    "descripcion": "Mesa de centro de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "CT6710",
+    "nombre": "Mesa de centro CT6710",
+    "categoria": "mesas-centro",
+    "ambientes": [
+      "living"
+    ],
+    "medidas": "",
+    "materiales": "",
+    "descripcion": "Mesa de centro de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "CT6712",
+    "nombre": "Mesa de centro CT6712",
+    "categoria": "mesas-centro",
+    "ambientes": [
+      "living"
+    ],
+    "medidas": "",
+    "materiales": "",
+    "descripcion": "Mesa de centro de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "CT6713",
+    "nombre": "Mesa de centro CT6713",
+    "categoria": "mesas-centro",
+    "ambientes": [
+      "living"
+    ],
+    "medidas": "",
+    "materiales": "",
+    "descripcion": "Mesa de centro de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "CT6714",
+    "nombre": "Mesa de centro CT6714",
+    "categoria": "mesas-centro",
+    "ambientes": [
+      "living"
+    ],
+    "medidas": "",
+    "materiales": "",
+    "descripcion": "Mesa de centro de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "CT6715",
+    "nombre": "Mesa de centro CT6715",
+    "categoria": "mesas-centro",
+    "ambientes": [
+      "living"
+    ],
+    "medidas": "",
+    "materiales": "",
+    "descripcion": "Mesa de centro de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "CT6716",
+    "nombre": "Mesa de centro CT6716",
+    "categoria": "mesas-centro",
+    "ambientes": [
+      "living"
+    ],
+    "medidas": "",
+    "materiales": "",
+    "descripcion": "Mesa de centro de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "CT6718",
+    "nombre": "Mesa de centro CT6718",
+    "categoria": "mesas-centro",
+    "ambientes": [
+      "living"
+    ],
+    "medidas": "",
+    "materiales": "",
+    "descripcion": "Mesa de centro de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "CT6719",
+    "nombre": "Mesa de centro CT6719",
+    "categoria": "mesas-centro",
+    "ambientes": [
+      "living"
+    ],
+    "medidas": "",
+    "materiales": "",
+    "descripcion": "Mesa de centro de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "CT8013",
+    "nombre": "Mesa de centro CT8013",
+    "categoria": "mesas-centro",
+    "ambientes": [
+      "living"
+    ],
+    "medidas": "140 × 70 × 38 cm",
+    "materiales": "",
+    "descripcion": "Mesa de centro de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "CT8014",
+    "nombre": "Mesa de centro CT8014",
+    "categoria": "mesas-centro",
+    "ambientes": [
+      "living"
+    ],
+    "medidas": "105 × 62 × 38 cm",
+    "materiales": "",
+    "descripcion": "Mesa de centro de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "CY6011",
+    "nombre": "Silla de comedor CY6011",
+    "categoria": "sillas",
+    "ambientes": [
+      "comedor"
+    ],
+    "medidas": "63 × 52 × 90 cm",
+    "materiales": "",
+    "descripcion": "Silla de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "CY6011-1",
+    "nombre": "Silla de comedor CY6011-1",
+    "categoria": "sillas",
+    "ambientes": [
+      "comedor"
+    ],
+    "medidas": "63 × 52 × 90 cm",
+    "materiales": "",
+    "descripcion": "Silla de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "CY6018",
+    "nombre": "Silla de comedor CY6018",
+    "categoria": "sillas",
+    "ambientes": [
+      "comedor"
+    ],
+    "medidas": "55 × 58 × 80 cm",
+    "materiales": "",
+    "descripcion": "Silla de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "CY6901",
+    "nombre": "Silla de comedor CY6901",
+    "categoria": "sillas",
+    "ambientes": [
+      "comedor"
+    ],
+    "medidas": "65 × 57 × 83 cm",
+    "materiales": "",
+    "descripcion": "Silla de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "DB6011",
+    "nombre": "Aparador DB6011",
+    "categoria": "aparadores",
+    "ambientes": [
+      "comedor"
+    ],
+    "medidas": "",
+    "materiales": "",
+    "descripcion": "Aparador de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "DB6011-1",
+    "nombre": "Aparador DB6011-1",
+    "categoria": "aparadores",
+    "ambientes": [
+      "comedor"
+    ],
+    "medidas": "",
+    "materiales": "",
+    "descripcion": "Aparador de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "DB6701",
+    "nombre": "Aparador DB6701",
+    "categoria": "aparadores",
+    "ambientes": [
+      "comedor"
+    ],
+    "medidas": "",
+    "materiales": "",
+    "descripcion": "Aparador de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "DB6701-1",
+    "nombre": "Aparador DB6701-1",
+    "categoria": "aparadores",
+    "ambientes": [
+      "comedor"
+    ],
+    "medidas": "",
+    "materiales": "",
+    "descripcion": "Aparador de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "DB6703",
+    "nombre": "Aparador DB6703",
+    "categoria": "aparadores",
+    "ambientes": [
+      "comedor"
+    ],
+    "medidas": "",
+    "materiales": "",
+    "descripcion": "Aparador de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "DB6704",
+    "nombre": "Aparador DB6704",
+    "categoria": "aparadores",
+    "ambientes": [
+      "comedor"
+    ],
+    "medidas": "",
+    "materiales": "",
+    "descripcion": "Aparador de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "DB6705",
+    "nombre": "Aparador DB6705",
+    "categoria": "aparadores",
+    "ambientes": [
+      "comedor"
+    ],
+    "medidas": "",
+    "materiales": "",
+    "descripcion": "Aparador de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "DB6708",
+    "nombre": "Aparador DB6708",
+    "categoria": "aparadores",
+    "ambientes": [
+      "comedor"
+    ],
+    "medidas": "",
+    "materiales": "",
+    "descripcion": "Aparador de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "DB6709",
+    "nombre": "Aparador DB6709",
+    "categoria": "aparadores",
+    "ambientes": [
+      "comedor"
+    ],
+    "medidas": "",
+    "materiales": "",
+    "descripcion": "Aparador de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "DB6710",
+    "nombre": "Aparador DB6710",
+    "categoria": "aparadores",
+    "ambientes": [
+      "comedor"
+    ],
+    "medidas": "",
+    "materiales": "",
+    "descripcion": "Aparador de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "DB6711",
+    "nombre": "Aparador DB6711",
+    "categoria": "aparadores",
+    "ambientes": [
+      "comedor"
+    ],
+    "medidas": "",
+    "materiales": "",
+    "descripcion": "Aparador de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "DB6712",
+    "nombre": "Aparador DB6712",
+    "categoria": "aparadores",
+    "ambientes": [
+      "comedor"
+    ],
+    "medidas": "",
+    "materiales": "",
+    "descripcion": "Aparador de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "DB6713",
+    "nombre": "Aparador DB6713",
+    "categoria": "aparadores",
+    "ambientes": [
+      "comedor"
+    ],
+    "medidas": "",
+    "materiales": "",
+    "descripcion": "Aparador de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "DB6714",
+    "nombre": "Aparador DB6714",
+    "categoria": "aparadores",
+    "ambientes": [
+      "comedor"
+    ],
+    "medidas": "",
+    "materiales": "",
+    "descripcion": "Aparador de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "DB6715",
+    "nombre": "Aparador DB6715",
+    "categoria": "aparadores",
+    "ambientes": [
+      "comedor"
+    ],
+    "medidas": "",
+    "materiales": "",
+    "descripcion": "Aparador de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "DS6867",
+    "nombre": "Escritorio DS6867",
+    "categoria": "escritorios",
+    "ambientes": [
+      "estudio"
+    ],
+    "medidas": "",
+    "materiales": "",
+    "descripcion": "Escritorio de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "DS6867-1",
+    "nombre": "Escritorio DS6867-1",
+    "categoria": "escritorios",
+    "ambientes": [
+      "estudio"
+    ],
+    "medidas": "",
+    "materiales": "",
+    "descripcion": "Escritorio de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "DS6867-2",
+    "nombre": "Escritorio DS6867-2",
+    "categoria": "escritorios",
+    "ambientes": [
+      "estudio"
+    ],
+    "medidas": "",
+    "materiales": "",
+    "descripcion": "Escritorio de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "DS6868",
+    "nombre": "Escritorio DS6868",
+    "categoria": "escritorios",
+    "ambientes": [
+      "estudio"
+    ],
+    "medidas": "",
+    "materiales": "",
+    "descripcion": "Escritorio de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "DT012-1",
+    "nombre": "Mesa de comedor DT012-1",
+    "categoria": "mesas-comedor",
+    "ambientes": [
+      "comedor"
+    ],
+    "medidas": "Ø150 × 75 cm",
+    "materiales": "",
+    "descripcion": "Mesa de comedor de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "DT015-1",
+    "nombre": "Mesa de comedor DT015-1",
+    "categoria": "mesas-comedor",
+    "ambientes": [
+      "comedor"
+    ],
+    "medidas": "Ø150 × 75 cm",
+    "materiales": "",
+    "descripcion": "Mesa de comedor de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "DT021-1",
+    "nombre": "Mesa de comedor DT021-1",
+    "categoria": "mesas-comedor",
+    "ambientes": [
+      "comedor"
+    ],
+    "medidas": "Ø150 × 75 cm",
+    "materiales": "",
+    "descripcion": "Mesa de comedor de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "DT024-1",
+    "nombre": "Mesa de comedor DT024-1",
+    "categoria": "mesas-comedor",
+    "ambientes": [
+      "comedor"
+    ],
+    "medidas": "Ø150 × 75 cm",
+    "materiales": "",
+    "descripcion": "Mesa de comedor de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "DT037-1",
+    "nombre": "Mesa de comedor DT037-1",
+    "categoria": "mesas-comedor",
+    "ambientes": [
+      "comedor"
+    ],
+    "medidas": "Ø150 × 75 cm",
+    "materiales": "",
+    "descripcion": "Mesa de comedor de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "DT3131",
+    "nombre": "Mesa de comedor DT3131",
+    "categoria": "mesas-comedor",
+    "ambientes": [
+      "comedor"
+    ],
+    "medidas": "200 × 100 × 75 cm",
+    "materiales": "",
+    "descripcion": "Mesa de comedor de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "DT6005",
+    "nombre": "Mesa de comedor DT6005",
+    "categoria": "mesas-comedor",
+    "ambientes": [
+      "comedor"
+    ],
+    "medidas": "220 × 110 × 75 cm",
+    "materiales": "",
+    "descripcion": "Mesa de comedor de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "DT6008-1",
+    "nombre": "Mesa de comedor DT6008-1",
+    "categoria": "mesas-comedor",
+    "ambientes": [
+      "comedor"
+    ],
+    "medidas": "Ø150 × 75 cm",
+    "materiales": "",
+    "descripcion": "Mesa de comedor de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "DT6010-1",
+    "nombre": "Mesa de comedor DT6010-1",
+    "categoria": "mesas-comedor",
+    "ambientes": [
+      "comedor"
+    ],
+    "medidas": "Ø150 × 75 cm",
+    "materiales": "",
+    "descripcion": "Mesa de comedor de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "DT6011",
+    "nombre": "Mesa de comedor DT6011",
+    "categoria": "mesas-comedor",
+    "ambientes": [
+      "comedor"
+    ],
+    "medidas": "",
+    "materiales": "",
+    "descripcion": "Mesa de comedor de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "DT6016",
+    "nombre": "Mesa de comedor DT6016",
+    "categoria": "mesas-comedor",
+    "ambientes": [
+      "comedor"
+    ],
+    "medidas": "Ø150 × 75 cm",
+    "materiales": "",
+    "descripcion": "Mesa de comedor de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "DT6018",
+    "nombre": "Mesa de comedor DT6018",
+    "categoria": "mesas-comedor",
+    "ambientes": [
+      "comedor"
+    ],
+    "medidas": "220 × 110 × 75 cm",
+    "materiales": "",
+    "descripcion": "Mesa de comedor de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "DT6018-1",
+    "nombre": "Mesa de comedor DT6018-1",
+    "categoria": "mesas-comedor",
+    "ambientes": [
+      "comedor"
+    ],
+    "medidas": "Ø150 × 75 cm",
+    "materiales": "",
+    "descripcion": "Mesa de comedor de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "DT6021-1",
+    "nombre": "Mesa de comedor DT6021-1",
+    "categoria": "mesas-comedor",
+    "ambientes": [
+      "comedor"
+    ],
+    "medidas": "Ø150 × 75 cm",
+    "materiales": "",
+    "descripcion": "Mesa de comedor de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "DT6056",
+    "nombre": "Mesa de comedor DT6056",
+    "categoria": "mesas-comedor",
+    "ambientes": [
+      "comedor"
+    ],
+    "medidas": "220 × 95 × 75 cm",
+    "materiales": "",
+    "descripcion": "Mesa de comedor de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "DT6060-1",
+    "nombre": "Mesa de comedor DT6060-1",
+    "categoria": "mesas-comedor",
+    "ambientes": [
+      "comedor"
+    ],
+    "medidas": "Ø150 × 75 cm",
+    "materiales": "",
+    "descripcion": "Mesa de comedor de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "DT6116-1",
+    "nombre": "Mesa de comedor DT6116-1",
+    "categoria": "mesas-comedor",
+    "ambientes": [
+      "comedor"
+    ],
+    "medidas": "Ø150 × 75 cm",
+    "materiales": "",
+    "descripcion": "Mesa de comedor de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "DT6150-1",
+    "nombre": "Mesa de comedor DT6150-1",
+    "categoria": "mesas-comedor",
+    "ambientes": [
+      "comedor"
+    ],
+    "medidas": "Ø150 × 75 cm",
+    "materiales": "",
+    "descripcion": "Mesa de comedor de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "DT6152",
+    "nombre": "Mesa de comedor DT6152",
+    "categoria": "mesas-comedor",
+    "ambientes": [
+      "comedor"
+    ],
+    "medidas": "200 × 100 × 75 cm",
+    "materiales": "",
+    "descripcion": "Mesa de comedor de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "DT6153",
+    "nombre": "Mesa de comedor DT6153",
+    "categoria": "mesas-comedor",
+    "ambientes": [
+      "comedor"
+    ],
+    "medidas": "200 × 100 × 75 cm",
+    "materiales": "",
+    "descripcion": "Mesa de comedor de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "DT6154",
+    "nombre": "Mesa de comedor DT6154",
+    "categoria": "mesas-comedor",
+    "ambientes": [
+      "comedor"
+    ],
+    "medidas": "200 × 100 × 75 cm",
+    "materiales": "",
+    "descripcion": "Mesa de comedor de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "DT6154-1",
+    "nombre": "Mesa de comedor DT6154-1",
+    "categoria": "mesas-comedor",
+    "ambientes": [
+      "comedor"
+    ],
+    "medidas": "Ø150 × 75 cm",
+    "materiales": "",
+    "descripcion": "Mesa de comedor de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "DT6155",
+    "nombre": "Mesa de comedor DT6155",
+    "categoria": "mesas-comedor",
+    "ambientes": [
+      "comedor"
+    ],
+    "medidas": "200 × 100 × 75 cm",
+    "materiales": "",
+    "descripcion": "Mesa de comedor de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "DT6157-1",
+    "nombre": "Mesa de comedor DT6157-1",
+    "categoria": "mesas-comedor",
+    "ambientes": [
+      "comedor"
+    ],
+    "medidas": "Ø150 × 75 cm",
+    "materiales": "",
+    "descripcion": "Mesa de comedor de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "DT6163",
+    "nombre": "Mesa de comedor DT6163",
+    "categoria": "mesas-comedor",
+    "ambientes": [
+      "comedor"
+    ],
+    "medidas": "200 × 100 × 75 cm",
+    "materiales": "",
+    "descripcion": "Mesa de comedor de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "DT6165",
+    "nombre": "Mesa de comedor DT6165",
+    "categoria": "mesas-comedor",
+    "ambientes": [
+      "comedor"
+    ],
+    "medidas": "200 × 100 × 75 cm",
+    "materiales": "",
+    "descripcion": "Mesa de comedor de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "DT6193",
+    "nombre": "Mesa de comedor DT6193",
+    "categoria": "mesas-comedor",
+    "ambientes": [
+      "comedor"
+    ],
+    "medidas": "Ø150 × 75 cm",
+    "materiales": "",
+    "descripcion": "Mesa de comedor de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "DT6206",
+    "nombre": "Mesa de comedor DT6206",
+    "categoria": "mesas-comedor",
+    "ambientes": [
+      "comedor"
+    ],
+    "medidas": "200 × 100 × 75 cm",
+    "materiales": "",
+    "descripcion": "Mesa de comedor de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "DT6223",
+    "nombre": "Mesa de comedor DT6223",
+    "categoria": "mesas-comedor",
+    "ambientes": [
+      "comedor"
+    ],
+    "medidas": "200 × 100 × 75 cm",
+    "materiales": "",
+    "descripcion": "Mesa de comedor de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "DT6228-1",
+    "nombre": "Mesa de comedor DT6228-1",
+    "categoria": "mesas-comedor",
+    "ambientes": [
+      "comedor"
+    ],
+    "medidas": "Ø150 × 75 cm",
+    "materiales": "",
+    "descripcion": "Mesa de comedor de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "DT6229-1",
+    "nombre": "Mesa de comedor DT6229-1",
+    "categoria": "mesas-comedor",
+    "ambientes": [
+      "comedor"
+    ],
+    "medidas": "Ø150 × 75 cm",
+    "materiales": "",
+    "descripcion": "Mesa de comedor de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "DT6254-1",
+    "nombre": "Mesa de comedor DT6254-1",
+    "categoria": "mesas-comedor",
+    "ambientes": [
+      "comedor"
+    ],
+    "medidas": "Ø150 × 75 cm",
+    "materiales": "",
+    "descripcion": "Mesa de comedor de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "DT6264",
+    "nombre": "Mesa de comedor DT6264",
+    "categoria": "mesas-comedor",
+    "ambientes": [
+      "comedor"
+    ],
+    "medidas": "200 × 100 × 75 cm",
+    "materiales": "",
+    "descripcion": "Mesa de comedor de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "DT6264-1",
+    "nombre": "Mesa de comedor DT6264-1",
+    "categoria": "mesas-comedor",
+    "ambientes": [
+      "comedor"
+    ],
+    "medidas": "Ø150 × 75 cm",
+    "materiales": "",
+    "descripcion": "Mesa de comedor de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "DT6265",
+    "nombre": "Mesa de comedor DT6265",
+    "categoria": "mesas-comedor",
+    "ambientes": [
+      "comedor"
+    ],
+    "medidas": "200 × 100 × 75 cm",
+    "materiales": "",
+    "descripcion": "Mesa de comedor de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "DT6269-1",
+    "nombre": "Mesa de comedor DT6269-1",
+    "categoria": "mesas-comedor",
+    "ambientes": [
+      "comedor"
+    ],
+    "medidas": "Ø150 × 75 cm",
+    "materiales": "",
+    "descripcion": "Mesa de comedor de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "DT6291-1",
+    "nombre": "Mesa de comedor DT6291-1",
+    "categoria": "mesas-comedor",
+    "ambientes": [
+      "comedor"
+    ],
+    "medidas": "Ø150 × 75 cm",
+    "materiales": "",
+    "descripcion": "Mesa de comedor de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "DT6304",
+    "nombre": "Mesa de comedor DT6304",
+    "categoria": "mesas-comedor",
+    "ambientes": [
+      "comedor"
+    ],
+    "medidas": "200 × 100 × 75 cm",
+    "materiales": "",
+    "descripcion": "Mesa de comedor de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "DT6316-1",
+    "nombre": "Mesa de comedor DT6316-1",
+    "categoria": "mesas-comedor",
+    "ambientes": [
+      "comedor"
+    ],
+    "medidas": "Ø150 × 75 cm",
+    "materiales": "",
+    "descripcion": "Mesa de comedor de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "DT6317-1",
+    "nombre": "Mesa de comedor DT6317-1",
+    "categoria": "mesas-comedor",
+    "ambientes": [
+      "comedor"
+    ],
+    "medidas": "Ø150 × 75 cm",
+    "materiales": "",
+    "descripcion": "Mesa de comedor de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "DT6321-1",
+    "nombre": "Mesa de comedor DT6321-1",
+    "categoria": "mesas-comedor",
+    "ambientes": [
+      "comedor"
+    ],
+    "medidas": "Ø150 × 75 cm",
+    "materiales": "",
+    "descripcion": "Mesa de comedor de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
   },
   {
     "codigo": "DT6701",
-    "nombre": "Mesa de comedor Travertino",
-    "categoria": "mesas",
-    "ambientes": ["comedor"],
-    "medidas": "240 × 100 × 75 cm",
-    "materiales": "Tapa de mármol travertino natural, base escultórica en metal con terminación bronce satinado.",
-    "descripcion": "Mesa de comedor para ocho comensales con una tapa de travertino de veta cálida y una base escultórica que parece flotar. Una pieza central que define el ambiente.",
-    "destacado": true,
-    "imagenes": [
-      { "url": "/productos/placeholder-mesa.svg", "rol": "principal", "alt": "Mesa de comedor Travertino" },
-      { "url": "/productos/placeholder-ambiente.svg", "rol": "ambiente", "alt": "Mesa Travertino en comedor" }
-    ]
+    "nombre": "Mesa de comedor DT6701",
+    "categoria": "mesas-comedor",
+    "ambientes": [
+      "comedor"
+    ],
+    "medidas": "",
+    "materiales": "",
+    "descripcion": "Mesa de comedor de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "DT6702",
+    "nombre": "Mesa de comedor DT6702",
+    "categoria": "mesas-comedor",
+    "ambientes": [
+      "comedor"
+    ],
+    "medidas": "",
+    "materiales": "",
+    "descripcion": "Mesa de comedor de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "DT6703",
+    "nombre": "Mesa de comedor DT6703",
+    "categoria": "mesas-comedor",
+    "ambientes": [
+      "comedor"
+    ],
+    "medidas": "",
+    "materiales": "",
+    "descripcion": "Mesa de comedor de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "DT6704",
+    "nombre": "Mesa de comedor DT6704",
+    "categoria": "mesas-comedor",
+    "ambientes": [
+      "comedor"
+    ],
+    "medidas": "",
+    "materiales": "",
+    "descripcion": "Mesa de comedor de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "DT6706",
+    "nombre": "Mesa de comedor DT6706",
+    "categoria": "mesas-comedor",
+    "ambientes": [
+      "comedor"
+    ],
+    "medidas": "",
+    "materiales": "",
+    "descripcion": "Mesa de comedor de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "DT6707",
+    "nombre": "Mesa de comedor DT6707",
+    "categoria": "mesas-comedor",
+    "ambientes": [
+      "comedor"
+    ],
+    "medidas": "",
+    "materiales": "",
+    "descripcion": "Mesa de comedor de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "DT6709",
+    "nombre": "Mesa de comedor DT6709",
+    "categoria": "mesas-comedor",
+    "ambientes": [
+      "comedor"
+    ],
+    "medidas": "",
+    "materiales": "",
+    "descripcion": "Mesa de comedor de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "DT6711",
+    "nombre": "Mesa de comedor DT6711",
+    "categoria": "mesas-comedor",
+    "ambientes": [
+      "comedor"
+    ],
+    "medidas": "",
+    "materiales": "",
+    "descripcion": "Mesa de comedor de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "DT6712",
+    "nombre": "Mesa de comedor DT6712",
+    "categoria": "mesas-comedor",
+    "ambientes": [
+      "comedor"
+    ],
+    "medidas": "",
+    "materiales": "",
+    "descripcion": "Mesa de comedor de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "DT6713",
+    "nombre": "Mesa de comedor DT6713",
+    "categoria": "mesas-comedor",
+    "ambientes": [
+      "comedor"
+    ],
+    "medidas": "",
+    "materiales": "",
+    "descripcion": "Mesa de comedor de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "DT6717",
+    "nombre": "Mesa de comedor DT6717",
+    "categoria": "mesas-comedor",
+    "ambientes": [
+      "comedor"
+    ],
+    "medidas": "",
+    "materiales": "",
+    "descripcion": "Mesa de comedor de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "DT6718",
+    "nombre": "Mesa de comedor DT6718",
+    "categoria": "mesas-comedor",
+    "ambientes": [
+      "comedor"
+    ],
+    "medidas": "",
+    "materiales": "",
+    "descripcion": "Mesa de comedor de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "DT6719",
+    "nombre": "Mesa de comedor DT6719",
+    "categoria": "mesas-comedor",
+    "ambientes": [
+      "comedor"
+    ],
+    "medidas": "",
+    "materiales": "",
+    "descripcion": "Mesa de comedor de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "DT6901",
+    "nombre": "Mesa de comedor DT6901",
+    "categoria": "mesas-comedor",
+    "ambientes": [
+      "comedor"
+    ],
+    "medidas": "240 × 110 × 75 cm",
+    "materiales": "",
+    "descripcion": "Mesa de comedor de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "DT8001",
+    "nombre": "Mesa de comedor DT8001",
+    "categoria": "mesas-comedor",
+    "ambientes": [
+      "comedor"
+    ],
+    "medidas": "Ø150 × 75 cm",
+    "materiales": "",
+    "descripcion": "Mesa de comedor de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "DT8006",
+    "nombre": "Mesa de comedor DT8006",
+    "categoria": "mesas-comedor",
+    "ambientes": [
+      "comedor"
+    ],
+    "medidas": "Ø150 × 75 cm",
+    "materiales": "",
+    "descripcion": "Mesa de comedor de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "DT8007",
+    "nombre": "Mesa de comedor DT8007",
+    "categoria": "mesas-comedor",
+    "ambientes": [
+      "comedor"
+    ],
+    "medidas": "220 × 110 × 75 cm",
+    "materiales": "",
+    "descripcion": "Mesa de comedor de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "DT8009",
+    "nombre": "Mesa de comedor DT8009",
+    "categoria": "mesas-comedor",
+    "ambientes": [
+      "comedor"
+    ],
+    "medidas": "220 × 110 × 75 cm",
+    "materiales": "",
+    "descripcion": "Mesa de comedor de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "DT8016",
+    "nombre": "Mesa de comedor DT8016",
+    "categoria": "mesas-comedor",
+    "ambientes": [
+      "comedor"
+    ],
+    "medidas": "Ø150 × 75 cm",
+    "materiales": "",
+    "descripcion": "Mesa de comedor de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "DT8022",
+    "nombre": "Mesa de comedor DT8022",
+    "categoria": "mesas-comedor",
+    "ambientes": [
+      "comedor"
+    ],
+    "medidas": "220 × 110 × 75 cm",
+    "materiales": "",
+    "descripcion": "Mesa de comedor de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "DT8022-1",
+    "nombre": "Mesa de comedor DT8022-1",
+    "categoria": "mesas-comedor",
+    "ambientes": [
+      "comedor"
+    ],
+    "medidas": "Ø150 × 75 cm",
+    "materiales": "",
+    "descripcion": "Mesa de comedor de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "EC6002",
+    "nombre": "Consola EC6002",
+    "categoria": "consolas",
+    "ambientes": [
+      "living"
+    ],
+    "medidas": "150 × 45 × 80 cm",
+    "materiales": "",
+    "descripcion": "Consola de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "EC6010",
+    "nombre": "Consola EC6010",
+    "categoria": "consolas",
+    "ambientes": [
+      "living"
+    ],
+    "medidas": "150 × 50 × 75 cm",
+    "materiales": "",
+    "descripcion": "Consola de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "EC6018",
+    "nombre": "Consola EC6018",
+    "categoria": "consolas",
+    "ambientes": [
+      "living"
+    ],
+    "medidas": "150 × 50 × 75 cm",
+    "materiales": "",
+    "descripcion": "Consola de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "ET6010",
+    "nombre": "Mesa auxiliar ET6010",
+    "categoria": "mesas-auxiliares",
+    "ambientes": [
+      "living"
+    ],
+    "medidas": "50 × 50 × 55 cm",
+    "materiales": "",
+    "descripcion": "Mesa auxiliar de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "ET6017",
+    "nombre": "Mesa auxiliar ET6017",
+    "categoria": "mesas-auxiliares",
+    "ambientes": [
+      "living"
+    ],
+    "medidas": "47 × 36 × 55 cm",
+    "materiales": "",
+    "descripcion": "Mesa auxiliar de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "ET6018",
+    "nombre": "Mesa auxiliar ET6018",
+    "categoria": "mesas-auxiliares",
+    "ambientes": [
+      "living"
+    ],
+    "medidas": "50 × 50 × 55 cm",
+    "materiales": "",
+    "descripcion": "Mesa auxiliar de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "ET6190",
+    "nombre": "Mesa auxiliar ET6190",
+    "categoria": "mesas-auxiliares",
+    "ambientes": [
+      "living"
+    ],
+    "medidas": "Ø50 × 55 cm",
+    "materiales": "",
+    "descripcion": "Mesa auxiliar de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "ET8014",
+    "nombre": "Mesa auxiliar ET8014",
+    "categoria": "mesas-auxiliares",
+    "ambientes": [
+      "living"
+    ],
+    "medidas": "50 × 50 × 55 cm",
+    "materiales": "",
+    "descripcion": "Mesa auxiliar de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "ET8014-1",
+    "nombre": "Mesa auxiliar ET8014-1",
+    "categoria": "mesas-auxiliares",
+    "ambientes": [
+      "living"
+    ],
+    "medidas": "Ø50 × 55 cm",
+    "materiales": "",
+    "descripcion": "Mesa auxiliar de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "FS6018",
+    "nombre": "Florero FS6018",
+    "categoria": "decoracion",
+    "ambientes": [
+      "decoracion"
+    ],
+    "medidas": "Ø35 × 60/80/100 cm",
+    "materiales": "",
+    "descripcion": "Pieza decorativa de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "FS6701",
+    "nombre": "Florero FS6701",
+    "categoria": "decoracion",
+    "ambientes": [
+      "decoracion"
+    ],
+    "medidas": "",
+    "materiales": "",
+    "descripcion": "Pieza decorativa de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "FS6811",
+    "nombre": "Florero FS6811",
+    "categoria": "decoracion",
+    "ambientes": [
+      "decoracion"
+    ],
+    "medidas": "",
+    "materiales": "",
+    "descripcion": "Pieza decorativa de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "FS6812",
+    "nombre": "Florero FS6812",
+    "categoria": "decoracion",
+    "ambientes": [
+      "decoracion"
+    ],
+    "medidas": "",
+    "materiales": "",
+    "descripcion": "Pieza decorativa de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "FS6812-1",
+    "nombre": "Florero FS6812-1",
+    "categoria": "decoracion",
+    "ambientes": [
+      "decoracion"
+    ],
+    "medidas": "",
+    "materiales": "",
+    "descripcion": "Pieza decorativa de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "FS6813",
+    "nombre": "Florero FS6813",
+    "categoria": "decoracion",
+    "ambientes": [
+      "decoracion"
+    ],
+    "medidas": "",
+    "materiales": "",
+    "descripcion": "Pieza decorativa de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "MG6011",
+    "nombre": "Tocador MG6011",
+    "categoria": "tocadores",
+    "ambientes": [
+      "dormitorio"
+    ],
+    "medidas": "",
+    "materiales": "",
+    "descripcion": "Tocador de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "MG6011-1",
+    "nombre": "Escritorio MG6011-1",
+    "categoria": "escritorios",
+    "ambientes": [
+      "estudio"
+    ],
+    "medidas": "",
+    "materiales": "",
+    "descripcion": "Escritorio de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "NT6011",
+    "nombre": "Mesa de luz NT6011",
+    "categoria": "mesas-luz",
+    "ambientes": [
+      "dormitorio"
+    ],
+    "medidas": "",
+    "materiales": "",
+    "descripcion": "Mesa de luz de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "RT5006",
+    "nombre": "Mesa de centro RT5006",
+    "categoria": "mesas-centro",
+    "ambientes": [
+      "living"
+    ],
+    "medidas": "140 × 70 × 42 cm",
+    "materiales": "",
+    "descripcion": "Mesa de centro de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "RT6002",
+    "nombre": "Mesa de centro redonda RT6002",
+    "categoria": "mesas-centro",
+    "ambientes": [
+      "living"
+    ],
+    "medidas": "Ø50 × 55 cm",
+    "materiales": "",
+    "descripcion": "Mesa de centro de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "RT6010",
+    "nombre": "Mesa de centro redonda RT6010",
+    "categoria": "mesas-centro",
+    "ambientes": [
+      "living"
+    ],
+    "medidas": "Ø100 × 38 cm",
+    "materiales": "",
+    "descripcion": "Mesa de centro de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "RT6018",
+    "nombre": "Mesa de centro redonda RT6018",
+    "categoria": "mesas-centro",
+    "ambientes": [
+      "living"
+    ],
+    "medidas": "Ø100 × 38 cm",
+    "materiales": "",
+    "descripcion": "Mesa de centro de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "RT6019",
+    "nombre": "Mesa auxiliar RT6019",
+    "categoria": "mesas-auxiliares",
+    "ambientes": [
+      "living"
+    ],
+    "medidas": "40 × 30 × 55 cm",
+    "materiales": "",
+    "descripcion": "Mesa auxiliar de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "RT6020",
+    "nombre": "Mesa auxiliar RT6020",
+    "categoria": "mesas-auxiliares",
+    "ambientes": [
+      "living"
+    ],
+    "medidas": "45 × 40 × 55 cm",
+    "materiales": "",
+    "descripcion": "Mesa auxiliar de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "RT6021",
+    "nombre": "Mesa de centro RT6021",
+    "categoria": "mesas-centro",
+    "ambientes": [
+      "living"
+    ],
+    "medidas": "Ø100 × 43 cm",
+    "materiales": "",
+    "descripcion": "Mesa de centro de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "RT6022",
+    "nombre": "Mesa de centro RT6022",
+    "categoria": "mesas-centro",
+    "ambientes": [
+      "living"
+    ],
+    "medidas": "Ø100 × 43 cm",
+    "materiales": "",
+    "descripcion": "Mesa de centro de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "RT6023",
+    "nombre": "Mesa de centro redonda RT6023",
+    "categoria": "mesas-centro",
+    "ambientes": [
+      "living"
+    ],
+    "medidas": "160 × 58 × 38 cm",
+    "materiales": "",
+    "descripcion": "Mesa de centro de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "RT6027",
+    "nombre": "Mesa auxiliar RT6027",
+    "categoria": "mesas-auxiliares",
+    "ambientes": [
+      "living"
+    ],
+    "medidas": "Ø50 × 55 cm",
+    "materiales": "",
+    "descripcion": "Mesa auxiliar de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "RT6047",
+    "nombre": "Mesa de centro RT6047",
+    "categoria": "mesas-centro",
+    "ambientes": [
+      "living"
+    ],
+    "medidas": "Ø100 × 38 cm",
+    "materiales": "",
+    "descripcion": "Mesa de centro de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "RT6055",
+    "nombre": "Mesa de centro RT6055",
+    "categoria": "mesas-centro",
+    "ambientes": [
+      "living"
+    ],
+    "medidas": "Ø100 × 38 cm",
+    "materiales": "",
+    "descripcion": "Mesa de centro de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "RT6060",
+    "nombre": "Mesa de centro RT6060",
+    "categoria": "mesas-centro",
+    "ambientes": [
+      "living"
+    ],
+    "medidas": "Ø100 × 38 cm",
+    "materiales": "",
+    "descripcion": "Mesa de centro de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "RT6166",
+    "nombre": "Mesa de centro RT6166",
+    "categoria": "mesas-centro",
+    "ambientes": [
+      "living"
+    ],
+    "medidas": "Ø100 × 38 cm",
+    "materiales": "",
+    "descripcion": "Mesa de centro de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "RT6188",
+    "nombre": "Mesa de centro RT6188",
+    "categoria": "mesas-centro",
+    "ambientes": [
+      "living"
+    ],
+    "medidas": "Ø100 × 38 cm",
+    "materiales": "",
+    "descripcion": "Mesa de centro de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "RT6194",
+    "nombre": "Mesa de centro RT6194",
+    "categoria": "mesas-centro",
+    "ambientes": [
+      "living"
+    ],
+    "medidas": "Ø100 × 33.8 cm",
+    "materiales": "",
+    "descripcion": "Mesa de centro de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "RT6194-1",
+    "nombre": "Mesa de centro RT6194-1",
+    "categoria": "mesas-centro",
+    "ambientes": [
+      "living"
+    ],
+    "medidas": "Ø100 × 38 cm",
+    "materiales": "",
+    "descripcion": "Mesa de centro de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "RT6197L",
+    "nombre": "Mesa de centro RT6197L",
+    "categoria": "mesas-centro",
+    "ambientes": [
+      "living"
+    ],
+    "medidas": "Ø100 × 38 cm",
+    "materiales": "",
+    "descripcion": "Mesa de centro de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "RT6197S",
+    "nombre": "Mesa auxiliar RT6197S",
+    "categoria": "mesas-auxiliares",
+    "ambientes": [
+      "living"
+    ],
+    "medidas": "Ø68 × 45 cm",
+    "materiales": "",
+    "descripcion": "Mesa auxiliar de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "RT6198",
+    "nombre": "Mesa de centro RT6198",
+    "categoria": "mesas-centro",
+    "ambientes": [
+      "living"
+    ],
+    "medidas": "Ø100 × 40 cm",
+    "materiales": "",
+    "descripcion": "Mesa de centro de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "RT6270",
+    "nombre": "Mesa de centro RT6270",
+    "categoria": "mesas-centro",
+    "ambientes": [
+      "living"
+    ],
+    "medidas": "Ø100 × 38 cm",
+    "materiales": "",
+    "descripcion": "Mesa de centro de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "RT6337",
+    "nombre": "Mesa de centro RT6337",
+    "categoria": "mesas-centro",
+    "ambientes": [
+      "living"
+    ],
+    "medidas": "Ø100 × 38 cm",
+    "materiales": "",
+    "descripcion": "Mesa de centro de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "RT8003",
+    "nombre": "Mesa de centro redonda RT8003",
+    "categoria": "mesas-centro",
+    "ambientes": [
+      "living"
+    ],
+    "medidas": "Ø100 × 38 cm",
+    "materiales": "",
+    "descripcion": "Mesa de centro de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "RT8004",
+    "nombre": "Mesa de centro redonda RT8004",
+    "categoria": "mesas-centro",
+    "ambientes": [
+      "living"
+    ],
+    "medidas": "100 × 100 × 38 cm",
+    "materiales": "",
+    "descripcion": "Mesa de centro de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "RT8010",
+    "nombre": "Mesa de centro redonda RT8010",
+    "categoria": "mesas-centro",
+    "ambientes": [
+      "living"
+    ],
+    "medidas": "123 × 100 × 38 cm",
+    "materiales": "",
+    "descripcion": "Mesa de centro de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "RT8011",
+    "nombre": "Mesa de centro redonda RT8011",
+    "categoria": "mesas-centro",
+    "ambientes": [
+      "living"
+    ],
+    "medidas": "140 × 95 × 38 cm",
+    "materiales": "",
+    "descripcion": "Mesa de centro de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "RT8012",
+    "nombre": "Mesa de centro redonda RT8012",
+    "categoria": "mesas-centro",
+    "ambientes": [
+      "living"
+    ],
+    "medidas": "130 × 120 × 38 cm",
+    "materiales": "",
+    "descripcion": "Mesa de centro de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "SF6011",
+    "nombre": "Sofa SF6011",
+    "categoria": "sofas",
+    "ambientes": [
+      "living"
+    ],
+    "medidas": "",
+    "materiales": "",
+    "descripcion": "Sofá de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "SF6011L",
+    "nombre": "Sofa y sillon SF6011L",
+    "categoria": "sillones",
+    "ambientes": [
+      "living"
+    ],
+    "medidas": "",
+    "materiales": "",
+    "descripcion": "Sillón de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "SF6011M",
+    "nombre": "Sofa SF6011M",
+    "categoria": "sofas",
+    "ambientes": [
+      "living"
+    ],
+    "medidas": "",
+    "materiales": "",
+    "descripcion": "Sofá de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "SF6011S",
+    "nombre": "Sillon SF6011S",
+    "categoria": "sillones",
+    "ambientes": [
+      "living"
+    ],
+    "medidas": "",
+    "materiales": "",
+    "descripcion": "Sillón de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "SF6807",
+    "nombre": "Sofa SF6807",
+    "categoria": "sofas",
+    "ambientes": [
+      "living"
+    ],
+    "medidas": "",
+    "materiales": "",
+    "descripcion": "Sofá de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "SF6807-1",
+    "nombre": "Sofa SF6807-1",
+    "categoria": "sofas",
+    "ambientes": [
+      "living"
+    ],
+    "medidas": "",
+    "materiales": "",
+    "descripcion": "Sofá de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "SF6808",
+    "nombre": "Sofa SF6808",
+    "categoria": "sofas",
+    "ambientes": [
+      "living"
+    ],
+    "medidas": "",
+    "materiales": "",
+    "descripcion": "Sofá de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "SF6809",
+    "nombre": "Sofa SF6809",
+    "categoria": "sofas",
+    "ambientes": [
+      "living"
+    ],
+    "medidas": "",
+    "materiales": "",
+    "descripcion": "Sofá de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "SF6810",
+    "nombre": "Sofa SF6810",
+    "categoria": "sofas",
+    "ambientes": [
+      "living"
+    ],
+    "medidas": "",
+    "materiales": "",
+    "descripcion": "Sofá de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "SF6811",
+    "nombre": "Sofa SF6811",
+    "categoria": "sofas",
+    "ambientes": [
+      "living"
+    ],
+    "medidas": "",
+    "materiales": "",
+    "descripcion": "Sofá de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "SF6812",
+    "nombre": "Sofa SF6812",
+    "categoria": "sofas",
+    "ambientes": [
+      "living"
+    ],
+    "medidas": "",
+    "materiales": "",
+    "descripcion": "Sofá de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "SF6813",
+    "nombre": "Sofa SF6813",
+    "categoria": "sofas",
+    "ambientes": [
+      "living"
+    ],
+    "medidas": "",
+    "materiales": "",
+    "descripcion": "Sofá de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "SF6814",
+    "nombre": "Sofa SF6814",
+    "categoria": "sofas",
+    "ambientes": [
+      "living"
+    ],
+    "medidas": "",
+    "materiales": "",
+    "descripcion": "Sofá de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "SF6815",
+    "nombre": "Sofa SF6815",
+    "categoria": "sofas",
+    "ambientes": [
+      "living"
+    ],
+    "medidas": "",
+    "materiales": "",
+    "descripcion": "Sofá de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "SF6816",
+    "nombre": "Sofa SF6816",
+    "categoria": "sofas",
+    "ambientes": [
+      "living"
+    ],
+    "medidas": "",
+    "materiales": "",
+    "descripcion": "Sofá de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "SF6816-1",
+    "nombre": "Sofa SF6816-1",
+    "categoria": "sofas",
+    "ambientes": [
+      "living"
+    ],
+    "medidas": "",
+    "materiales": "",
+    "descripcion": "Sofá de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "SF6817",
+    "nombre": "Sofa SF6817",
+    "categoria": "sofas",
+    "ambientes": [
+      "living"
+    ],
+    "medidas": "",
+    "materiales": "",
+    "descripcion": "Sofá de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "SF6817-1",
+    "nombre": "Sofa SF6817-1",
+    "categoria": "sofas",
+    "ambientes": [
+      "living"
+    ],
+    "medidas": "",
+    "materiales": "",
+    "descripcion": "Sofá de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "SF6818",
+    "nombre": "Sofa SF6818",
+    "categoria": "sofas",
+    "ambientes": [
+      "living"
+    ],
+    "medidas": "",
+    "materiales": "",
+    "descripcion": "Sofá de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "SF6819",
+    "nombre": "Sofa SF6819",
+    "categoria": "sofas",
+    "ambientes": [
+      "living"
+    ],
+    "medidas": "",
+    "materiales": "",
+    "descripcion": "Sofá de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "SF6820",
+    "nombre": "Sofa SF6820",
+    "categoria": "sofas",
+    "ambientes": [
+      "living"
+    ],
+    "medidas": "",
+    "materiales": "",
+    "descripcion": "Sofá de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "SF6821",
+    "nombre": "Sofa SF6821",
+    "categoria": "sofas",
+    "ambientes": [
+      "living"
+    ],
+    "medidas": "",
+    "materiales": "",
+    "descripcion": "Sofá de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "SF6822",
+    "nombre": "Sillon SF6822",
+    "categoria": "sillones",
+    "ambientes": [
+      "living"
+    ],
+    "medidas": "",
+    "materiales": "",
+    "descripcion": "Sillón de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "SF6823",
+    "nombre": "Sillon SF6823",
+    "categoria": "sillones",
+    "ambientes": [
+      "living"
+    ],
+    "medidas": "",
+    "materiales": "",
+    "descripcion": "Sillón de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "SF6824",
+    "nombre": "Sofa SF6824",
+    "categoria": "sofas",
+    "ambientes": [
+      "living"
+    ],
+    "medidas": "",
+    "materiales": "",
+    "descripcion": "Sofá de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "SF6825",
+    "nombre": "Sillon SF6825",
+    "categoria": "sillones",
+    "ambientes": [
+      "living"
+    ],
+    "medidas": "",
+    "materiales": "",
+    "descripcion": "Sillón de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "SF6827",
+    "nombre": "Sofa SF6827",
+    "categoria": "sofas",
+    "ambientes": [
+      "living"
+    ],
+    "medidas": "",
+    "materiales": "",
+    "descripcion": "Sofá de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "SF6829",
+    "nombre": "Pouf SF6829",
+    "categoria": "banquetas",
+    "ambientes": [
+      "living"
+    ],
+    "medidas": "",
+    "materiales": "",
+    "descripcion": "Banqueta de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "SF6830",
+    "nombre": "Pouf SF6830",
+    "categoria": "banquetas",
+    "ambientes": [
+      "living"
+    ],
+    "medidas": "",
+    "materiales": "",
+    "descripcion": "Banqueta de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "SF6831",
+    "nombre": "Sofa SF6831",
+    "categoria": "sofas",
+    "ambientes": [
+      "living"
+    ],
+    "medidas": "",
+    "materiales": "",
+    "descripcion": "Sofá de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "SF6833",
+    "nombre": "Sofa SF6833",
+    "categoria": "sofas",
+    "ambientes": [
+      "living"
+    ],
+    "medidas": "",
+    "materiales": "",
+    "descripcion": "Sofá de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "SF6837",
+    "nombre": "Sofa SF6837",
+    "categoria": "sofas",
+    "ambientes": [
+      "living"
+    ],
+    "medidas": "",
+    "materiales": "",
+    "descripcion": "Sofá de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "SF6840",
+    "nombre": "Sofa SF6840",
+    "categoria": "sofas",
+    "ambientes": [
+      "living"
+    ],
+    "medidas": "",
+    "materiales": "",
+    "descripcion": "Sofá de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "SF6844",
+    "nombre": "Sofa SF6844",
+    "categoria": "sofas",
+    "ambientes": [
+      "living"
+    ],
+    "medidas": "",
+    "materiales": "",
+    "descripcion": "Sofá de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "SF6846",
+    "nombre": "Sofa SF6846",
+    "categoria": "sofas",
+    "ambientes": [
+      "living"
+    ],
+    "medidas": "",
+    "materiales": "",
+    "descripcion": "Sofá de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "SF6847",
+    "nombre": "Sillon SF6847",
+    "categoria": "sillones",
+    "ambientes": [
+      "living"
+    ],
+    "medidas": "",
+    "materiales": "",
+    "descripcion": "Sillón de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "SF6850",
+    "nombre": "Sofa SF6850",
+    "categoria": "sofas",
+    "ambientes": [
+      "living"
+    ],
+    "medidas": "",
+    "materiales": "",
+    "descripcion": "Sofá de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "SF6854",
+    "nombre": "Sofa SF6854",
+    "categoria": "sofas",
+    "ambientes": [
+      "living"
+    ],
+    "medidas": "",
+    "materiales": "",
+    "descripcion": "Sofá de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "SF6859",
+    "nombre": "Sofa SF6859",
+    "categoria": "sofas",
+    "ambientes": [
+      "living"
+    ],
+    "medidas": "",
+    "materiales": "",
+    "descripcion": "Sofá de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "SF6861",
+    "nombre": "Sofa SF6861",
+    "categoria": "sofas",
+    "ambientes": [
+      "living"
+    ],
+    "medidas": "",
+    "materiales": "",
+    "descripcion": "Sofá de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "SF6862",
+    "nombre": "Sofa SF6862",
+    "categoria": "sofas",
+    "ambientes": [
+      "living"
+    ],
+    "medidas": "",
+    "materiales": "",
+    "descripcion": "Sofá de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "SF6864",
+    "nombre": "Sofa SF6864",
+    "categoria": "sofas",
+    "ambientes": [
+      "living"
+    ],
+    "medidas": "",
+    "materiales": "",
+    "descripcion": "Sofá de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "SF6865",
+    "nombre": "Sofa SF6865",
+    "categoria": "sofas",
+    "ambientes": [
+      "living"
+    ],
+    "medidas": "",
+    "materiales": "",
+    "descripcion": "Sofá de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "TV6018",
+    "nombre": "Mueble de TV TV6018",
+    "categoria": "muebles-tv",
+    "ambientes": [
+      "living"
+    ],
+    "medidas": "220 × 45 × 50 cm",
+    "materiales": "",
+    "descripcion": "Mueble de TV de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "TV6801",
+    "nombre": "Mueble de TV TV6801",
+    "categoria": "muebles-tv",
+    "ambientes": [
+      "living"
+    ],
+    "medidas": "",
+    "materiales": "",
+    "descripcion": "Mueble de TV de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "TV6801-1",
+    "nombre": "Mueble de TV TV6801-1",
+    "categoria": "muebles-tv",
+    "ambientes": [
+      "living"
+    ],
+    "medidas": "",
+    "materiales": "",
+    "descripcion": "Mueble de TV de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "TV6802",
+    "nombre": "Mueble de TV TV6802",
+    "categoria": "muebles-tv",
+    "ambientes": [
+      "living"
+    ],
+    "medidas": "",
+    "materiales": "",
+    "descripcion": "Mueble de TV de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "W137-7",
+    "nombre": "Consola W137-7",
+    "categoria": "consolas",
+    "ambientes": [
+      "living"
+    ],
+    "medidas": "150 × 40 × 85 cm",
+    "materiales": "",
+    "descripcion": "Consola de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "WC6701",
+    "nombre": "Bar cart WC6701",
+    "categoria": "bar-carts",
+    "ambientes": [
+      "living"
+    ],
+    "medidas": "",
+    "materiales": "",
+    "descripcion": "Bar cart de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "WC6702",
+    "nombre": "Bar cart WC6702",
+    "categoria": "bar-carts",
+    "ambientes": [
+      "living"
+    ],
+    "medidas": "",
+    "materiales": "",
+    "descripcion": "Bar cart de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
+  },
+  {
+    "codigo": "ZT6018",
+    "nombre": "Vitrina ZT6018",
+    "categoria": "aparadores",
+    "ambientes": [
+      "comedor"
+    ],
+    "medidas": "135 × 60 × 135 cm",
+    "materiales": "",
+    "descripcion": "Aparador de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
+    "destacado": false,
+    "imagenes": []
   }
 ]
