@@ -1234,7 +1234,13 @@
     "materiales": "",
     "descripcion": "Consola de la Colección Milano Home 2026, de líneas contemporáneas y terminación de alta gama.",
     "destacado": false,
-    "imagenes": []
+    "imagenes": [
+      {
+        "url": "/productos/catalogo/CN6605.jpg",
+        "rol": "principal",
+        "alt": "Consola CN6605"
+      }
+    ]
   },
   {
     "codigo": "CN6605-1",
@@ -1247,7 +1253,13 @@
     "materiales": "",
     "descripcion": "Consola de la Colección Milano Home 2026, de líneas contemporáneas y terminación de alta gama.",
     "destacado": false,
-    "imagenes": []
+    "imagenes": [
+      {
+        "url": "/productos/catalogo/CN6605-1.jpg",
+        "rol": "principal",
+        "alt": "Consola CN6605-1"
+      }
+    ]
   },
   {
     "codigo": "CN6605-2",
@@ -1260,7 +1272,13 @@
     "materiales": "",
     "descripcion": "Consola de la Colección Milano Home 2026, de líneas contemporáneas y terminación de alta gama.",
     "destacado": false,
-    "imagenes": []
+    "imagenes": [
+      {
+        "url": "/productos/catalogo/CN6605-2.jpg",
+        "rol": "principal",
+        "alt": "Consola CN6605-2"
+      }
+    ]
   },
   {
     "codigo": "CN6611",
@@ -1273,7 +1291,13 @@
     "materiales": "",
     "descripcion": "Consola de la Colección Milano Home 2026, de líneas contemporáneas y terminación de alta gama.",
     "destacado": false,
-    "imagenes": []
+    "imagenes": [
+      {
+        "url": "/productos/catalogo/CN6611.jpg",
+        "rol": "principal",
+        "alt": "Consola CN6611"
+      }
+    ]
   },
   {
     "codigo": "CN7008",
@@ -1381,7 +1405,13 @@
     "materiales": "",
     "descripcion": "Mesa de centro de la Colección Milano Home 2026, de líneas contemporáneas y terminación de alta gama.",
     "destacado": false,
-    "imagenes": []
+    "imagenes": [
+      {
+        "url": "/productos/catalogo/CT6603.jpg",
+        "rol": "principal",
+        "alt": "Mesa de centro CT6603"
+      }
+    ]
   },
   {
     "codigo": "CT6605",
@@ -1394,7 +1424,13 @@
     "materiales": "",
     "descripcion": "Mesa de centro de la Colección Milano Home 2026, de líneas contemporáneas y terminación de alta gama.",
     "destacado": false,
-    "imagenes": []
+    "imagenes": [
+      {
+        "url": "/productos/catalogo/CT6605.jpg",
+        "rol": "principal",
+        "alt": "Mesa de centro CT6605"
+      }
+    ]
   },
   {
     "codigo": "CT6605-1",
@@ -1407,7 +1443,13 @@
     "materiales": "",
     "descripcion": "Mesa de centro de la Colección Milano Home 2026, de líneas contemporáneas y terminación de alta gama.",
     "destacado": false,
-    "imagenes": []
+    "imagenes": [
+      {
+        "url": "/productos/catalogo/CT6605-1.jpg",
+        "rol": "principal",
+        "alt": "Mesa de centro CT6605-1"
+      }
+    ]
   },
   {
     "codigo": "CT6701",
@@ -2826,7 +2868,13 @@
     "materiales": "",
     "descripcion": "Mesa de comedor de la Colección Milano Home 2026, de líneas contemporáneas y terminación de alta gama.",
     "destacado": false,
-    "imagenes": []
+    "imagenes": [
+      {
+        "url": "/productos/catalogo/DT6604.jpg",
+        "rol": "principal",
+        "alt": "Mesa de comedor DT6604"
+      }
+    ]
   },
   {
     "codigo": "DT6604-1",
@@ -2839,7 +2887,13 @@
     "materiales": "",
     "descripcion": "Mesa de comedor de la Colección Milano Home 2026, de líneas contemporáneas y terminación de alta gama.",
     "destacado": false,
-    "imagenes": []
+    "imagenes": [
+      {
+        "url": "/productos/catalogo/DT6604-1.jpg",
+        "rol": "principal",
+        "alt": "Mesa de comedor DT6604-1"
+      }
+    ]
   },
   {
     "codigo": "DT6604-2",
@@ -2852,7 +2906,13 @@
     "materiales": "",
     "descripcion": "Mesa de comedor de la Colección Milano Home 2026, de líneas contemporáneas y terminación de alta gama.",
     "destacado": false,
-    "imagenes": []
+    "imagenes": [
+      {
+        "url": "/productos/catalogo/DT6604-2.jpg",
+        "rol": "principal",
+        "alt": "Mesa de comedor DT6604-2"
+      }
+    ]
   },
   {
     "codigo": "DT6611",
@@ -2865,7 +2925,13 @@
     "materiales": "",
     "descripcion": "Mesa de comedor de la Colección Milano Home 2026, de líneas contemporáneas y terminación de alta gama.",
     "destacado": false,
-    "imagenes": []
+    "imagenes": [
+      {
+        "url": "/productos/catalogo/DT6611.jpg",
+        "rol": "principal",
+        "alt": "Mesa de comedor DT6611"
+      }
+    ]
   },
   {
     "codigo": "DT6701",
@@ -3239,7 +3305,13 @@
     "materiales": "",
     "descripcion": "Consola de la Colección Milano Home 2026, de líneas contemporáneas y terminación de alta gama.",
     "destacado": false,
-    "imagenes": []
+    "imagenes": [
+      {
+        "url": "/productos/catalogo/EC6604.jpg",
+        "rol": "principal",
+        "alt": "Consola EC6604"
+      }
+    ]
   },
   {
     "codigo": "EC6604-1",
@@ -3252,7 +3324,13 @@
     "materiales": "",
     "descripcion": "Consola de la Colección Milano Home 2026, de líneas contemporáneas y terminación de alta gama.",
     "destacado": false,
-    "imagenes": []
+    "imagenes": [
+      {
+        "url": "/productos/catalogo/EC6604-1.jpg",
+        "rol": "principal",
+        "alt": "Consola EC6604-1"
+      }
+    ]
   },
   {
     "codigo": "EC6604-2",
@@ -3265,7 +3343,13 @@
     "materiales": "",
     "descripcion": "Consola de la Colección Milano Home 2026, de líneas contemporáneas y terminación de alta gama.",
     "destacado": false,
-    "imagenes": []
+    "imagenes": [
+      {
+        "url": "/productos/catalogo/EC6604-2.jpg",
+        "rol": "principal",
+        "alt": "Consola EC6604-2"
+      }
+    ]
   },
   {
     "codigo": "ET6190",
@@ -3297,7 +3381,13 @@
     "materiales": "",
     "descripcion": "Mesa de centro de la Colección Milano Home 2026, de líneas contemporáneas y terminación de alta gama.",
     "destacado": false,
-    "imagenes": []
+    "imagenes": [
+      {
+        "url": "/productos/catalogo/ET6603.jpg",
+        "rol": "principal",
+        "alt": "Mesa de centro ET6603"
+      }
+    ]
   },
   {
     "codigo": "ET6603-1",
@@ -3310,7 +3400,13 @@
     "materiales": "",
     "descripcion": "Mesa de centro de la Colección Milano Home 2026, de líneas contemporáneas y terminación de alta gama.",
     "destacado": false,
-    "imagenes": []
+    "imagenes": [
+      {
+        "url": "/productos/catalogo/ET6603-1.jpg",
+        "rol": "principal",
+        "alt": "Mesa de centro ET6603-1"
+      }
+    ]
   },
   {
     "codigo": "ET6605",
@@ -3323,7 +3419,13 @@
     "materiales": "",
     "descripcion": "Mesa auxiliar de la Colección Milano Home 2026, de líneas contemporáneas y terminación de alta gama.",
     "destacado": false,
-    "imagenes": []
+    "imagenes": [
+      {
+        "url": "/productos/catalogo/ET6605.jpg",
+        "rol": "principal",
+        "alt": "Mesa auxiliar ET6605"
+      }
+    ]
   },
   {
     "codigo": "ET8014",
@@ -3488,7 +3590,13 @@
     "materiales": "",
     "descripcion": "Espejo de la Colección Milano Home 2026, de líneas contemporáneas y terminación de alta gama.",
     "destacado": false,
-    "imagenes": []
+    "imagenes": [
+      {
+        "url": "/productos/catalogo/MR6701.jpg",
+        "rol": "principal",
+        "alt": "Espejo MR6701"
+      }
+    ]
   },
   {
     "codigo": "MR6702",
@@ -3501,7 +3609,13 @@
     "materiales": "",
     "descripcion": "Espejo de la Colección Milano Home 2026, de líneas contemporáneas y terminación de alta gama.",
     "destacado": false,
-    "imagenes": []
+    "imagenes": [
+      {
+        "url": "/productos/catalogo/MR6702.jpg",
+        "rol": "principal",
+        "alt": "Espejo MR6702"
+      }
+    ]
   },
   {
     "codigo": "MR6703",
@@ -3514,7 +3628,13 @@
     "materiales": "",
     "descripcion": "Espejo de la Colección Milano Home 2026, de líneas contemporáneas y terminación de alta gama.",
     "destacado": false,
-    "imagenes": []
+    "imagenes": [
+      {
+        "url": "/productos/catalogo/MR6703.jpg",
+        "rol": "principal",
+        "alt": "Espejo MR6703"
+      }
+    ]
   },
   {
     "codigo": "MR6704",
@@ -3527,7 +3647,13 @@
     "materiales": "",
     "descripcion": "Espejo de la Colección Milano Home 2026, de líneas contemporáneas y terminación de alta gama.",
     "destacado": false,
-    "imagenes": []
+    "imagenes": [
+      {
+        "url": "/productos/catalogo/MR6704.jpg",
+        "rol": "principal",
+        "alt": "Espejo MR6704"
+      }
+    ]
   },
   {
     "codigo": "MR6705",
@@ -3540,7 +3666,13 @@
     "materiales": "",
     "descripcion": "Espejo de la Colección Milano Home 2026, de líneas contemporáneas y terminación de alta gama.",
     "destacado": false,
-    "imagenes": []
+    "imagenes": [
+      {
+        "url": "/productos/catalogo/MR6705.jpg",
+        "rol": "principal",
+        "alt": "Espejo MR6705"
+      }
+    ]
   },
   {
     "codigo": "MR6706",
@@ -3553,7 +3685,13 @@
     "materiales": "",
     "descripcion": "Espejo de la Colección Milano Home 2026, de líneas contemporáneas y terminación de alta gama.",
     "destacado": false,
-    "imagenes": []
+    "imagenes": [
+      {
+        "url": "/productos/catalogo/MR6706.jpg",
+        "rol": "principal",
+        "alt": "Espejo MR6706"
+      }
+    ]
   },
   {
     "codigo": "MR6707",
@@ -3566,7 +3704,13 @@
     "materiales": "",
     "descripcion": "Espejo de la Colección Milano Home 2026, de líneas contemporáneas y terminación de alta gama.",
     "destacado": false,
-    "imagenes": []
+    "imagenes": [
+      {
+        "url": "/productos/catalogo/MR6707.jpg",
+        "rol": "principal",
+        "alt": "Espejo MR6707"
+      }
+    ]
   },
   {
     "codigo": "MR6709",
@@ -3579,7 +3723,13 @@
     "materiales": "",
     "descripcion": "Espejo de la Colección Milano Home 2026, de líneas contemporáneas y terminación de alta gama.",
     "destacado": false,
-    "imagenes": []
+    "imagenes": [
+      {
+        "url": "/productos/catalogo/MR6709.jpg",
+        "rol": "principal",
+        "alt": "Espejo MR6709"
+      }
+    ]
   },
   {
     "codigo": "NT6604",
@@ -3592,7 +3742,13 @@
     "materiales": "",
     "descripcion": "Mesa de luz de la Colección Milano Home 2026, de líneas contemporáneas y terminación de alta gama.",
     "destacado": false,
-    "imagenes": []
+    "imagenes": [
+      {
+        "url": "/productos/catalogo/NT6604.jpg",
+        "rol": "principal",
+        "alt": "Mesa de luz NT6604"
+      }
+    ]
   },
   {
     "codigo": "RT5006",
@@ -3941,7 +4097,13 @@
     "materiales": "",
     "descripcion": "Mesa de centro de la Colección Milano Home 2026, de líneas contemporáneas y terminación de alta gama.",
     "destacado": false,
-    "imagenes": []
+    "imagenes": [
+      {
+        "url": "/productos/catalogo/RT6604.jpg",
+        "rol": "principal",
+        "alt": "Mesa de centro RT6604"
+      }
+    ]
   },
   {
     "codigo": "RT6604-1",
@@ -3954,7 +4116,13 @@
     "materiales": "",
     "descripcion": "Mesa de centro de la Colección Milano Home 2026, de líneas contemporáneas y terminación de alta gama.",
     "destacado": false,
-    "imagenes": []
+    "imagenes": [
+      {
+        "url": "/productos/catalogo/RT6604-1.jpg",
+        "rol": "principal",
+        "alt": "Mesa de centro RT6604-1"
+      }
+    ]
   },
   {
     "codigo": "RT6605",
@@ -3967,7 +4135,13 @@
     "materiales": "",
     "descripcion": "Mesa de centro de la Colección Milano Home 2026, de líneas contemporáneas y terminación de alta gama.",
     "destacado": false,
-    "imagenes": []
+    "imagenes": [
+      {
+        "url": "/productos/catalogo/RT6605.jpg",
+        "rol": "principal",
+        "alt": "Mesa de centro RT6605"
+      }
+    ]
   },
   {
     "codigo": "RT6605-1",
@@ -3980,7 +4154,13 @@
     "materiales": "",
     "descripcion": "Mesa de centro de la Colección Milano Home 2026, de líneas contemporáneas y terminación de alta gama.",
     "destacado": false,
-    "imagenes": []
+    "imagenes": [
+      {
+        "url": "/productos/catalogo/RT6605-1.jpg",
+        "rol": "principal",
+        "alt": "Mesa de centro RT6605-1"
+      }
+    ]
   },
   {
     "codigo": "RT6611L",
@@ -3993,7 +4173,13 @@
     "materiales": "",
     "descripcion": "Mesa de centro de la Colección Milano Home 2026, de líneas contemporáneas y terminación de alta gama.",
     "destacado": false,
-    "imagenes": []
+    "imagenes": [
+      {
+        "url": "/productos/catalogo/RT6611L.jpg",
+        "rol": "principal",
+        "alt": "Mesa de centro RT6611L"
+      }
+    ]
   },
   {
     "codigo": "RT6611L-1",
@@ -4006,7 +4192,13 @@
     "materiales": "",
     "descripcion": "Mesa de centro de la Colección Milano Home 2026, de líneas contemporáneas y terminación de alta gama.",
     "destacado": false,
-    "imagenes": []
+    "imagenes": [
+      {
+        "url": "/productos/catalogo/RT6611L-1.jpg",
+        "rol": "principal",
+        "alt": "Mesa de centro RT6611L-1"
+      }
+    ]
   },
   {
     "codigo": "RT6611S",
@@ -4019,7 +4211,13 @@
     "materiales": "",
     "descripcion": "Mesa de centro de la Colección Milano Home 2026, de líneas contemporáneas y terminación de alta gama.",
     "destacado": false,
-    "imagenes": []
+    "imagenes": [
+      {
+        "url": "/productos/catalogo/RT6611S.jpg",
+        "rol": "principal",
+        "alt": "Mesa de centro RT6611S"
+      }
+    ]
   },
   {
     "codigo": "SF6602",
@@ -4045,7 +4243,13 @@
     "materiales": "",
     "descripcion": "Sofá de la Colección Milano Home 2026, de líneas contemporáneas y terminación de alta gama.",
     "destacado": false,
-    "imagenes": []
+    "imagenes": [
+      {
+        "url": "/productos/catalogo/SF6612L.jpg",
+        "rol": "principal",
+        "alt": "Sofá SF6612L"
+      }
+    ]
   },
   {
     "codigo": "SF6612L-1",
@@ -4084,7 +4288,13 @@
     "materiales": "",
     "descripcion": "Sofá de la Colección Milano Home 2026, de líneas contemporáneas y terminación de alta gama.",
     "destacado": false,
-    "imagenes": []
+    "imagenes": [
+      {
+        "url": "/productos/catalogo/SF6805-1.jpg",
+        "rol": "principal",
+        "alt": "Sofá SF6805-1"
+      }
+    ]
   },
   {
     "codigo": "SF6805-2",
@@ -4097,7 +4307,13 @@
     "materiales": "",
     "descripcion": "Sofá de la Colección Milano Home 2026, de líneas contemporáneas y terminación de alta gama.",
     "destacado": false,
-    "imagenes": []
+    "imagenes": [
+      {
+        "url": "/productos/catalogo/SF6805-2.jpg",
+        "rol": "principal",
+        "alt": "Sofá SF6805-2"
+      }
+    ]
   },
   {
     "codigo": "SF6805-3",
@@ -4110,7 +4326,13 @@
     "materiales": "",
     "descripcion": "Sofá de la Colección Milano Home 2026, de líneas contemporáneas y terminación de alta gama.",
     "destacado": false,
-    "imagenes": []
+    "imagenes": [
+      {
+        "url": "/productos/catalogo/SF6805-3.jpg",
+        "rol": "principal",
+        "alt": "Sofá SF6805-3"
+      }
+    ]
   },
   {
     "codigo": "SF6805-4",
@@ -4123,7 +4345,13 @@
     "materiales": "",
     "descripcion": "Sofá de la Colección Milano Home 2026, de líneas contemporáneas y terminación de alta gama.",
     "destacado": false,
-    "imagenes": []
+    "imagenes": [
+      {
+        "url": "/productos/catalogo/SF6805-4.jpg",
+        "rol": "principal",
+        "alt": "Sofá SF6805-4"
+      }
+    ]
   },
   {
     "codigo": "SF6805-5",
@@ -4136,7 +4364,13 @@
     "materiales": "",
     "descripcion": "Sofá de la Colección Milano Home 2026, de líneas contemporáneas y terminación de alta gama.",
     "destacado": false,
-    "imagenes": []
+    "imagenes": [
+      {
+        "url": "/productos/catalogo/SF6805-5.jpg",
+        "rol": "principal",
+        "alt": "Sofá SF6805-5"
+      }
+    ]
   },
   {
     "codigo": "SF6805-6",
@@ -4149,7 +4383,13 @@
     "materiales": "",
     "descripcion": "Sofá de la Colección Milano Home 2026, de líneas contemporáneas y terminación de alta gama.",
     "destacado": false,
-    "imagenes": []
+    "imagenes": [
+      {
+        "url": "/productos/catalogo/SF6805-6.jpg",
+        "rol": "principal",
+        "alt": "Sofá SF6805-6"
+      }
+    ]
   },
   {
     "codigo": "SF6806",
@@ -4162,7 +4402,13 @@
     "materiales": "",
     "descripcion": "Sofá de la Colección Milano Home 2026, de líneas contemporáneas y terminación de alta gama.",
     "destacado": false,
-    "imagenes": []
+    "imagenes": [
+      {
+        "url": "/productos/catalogo/SF6806.jpg",
+        "rol": "principal",
+        "alt": "Sofá SF6806"
+      }
+    ]
   },
   {
     "codigo": "SF6806-1",
@@ -4175,7 +4421,13 @@
     "materiales": "",
     "descripcion": "Sofá de la Colección Milano Home 2026, de líneas contemporáneas y terminación de alta gama.",
     "destacado": false,
-    "imagenes": []
+    "imagenes": [
+      {
+        "url": "/productos/catalogo/SF6806-1.jpg",
+        "rol": "principal",
+        "alt": "Sofá SF6806-1"
+      }
+    ]
   },
   {
     "codigo": "SF6807",
@@ -5038,7 +5290,13 @@
     "materiales": "",
     "descripcion": "Mesa de centro de la Colección Milano Home 2026, de líneas contemporáneas y terminación de alta gama.",
     "destacado": false,
-    "imagenes": []
+    "imagenes": [
+      {
+        "url": "/productos/catalogo/WT6611L.jpg",
+        "rol": "principal",
+        "alt": "Mesa de centro WT6611L"
+      }
+    ]
   },
   {
     "codigo": "WT6611S",
@@ -5051,7 +5309,13 @@
     "materiales": "",
     "descripcion": "Mesa de centro de la Colección Milano Home 2026, de líneas contemporáneas y terminación de alta gama.",
     "destacado": false,
-    "imagenes": []
+    "imagenes": [
+      {
+        "url": "/productos/catalogo/WT6611S.jpg",
+        "rol": "principal",
+        "alt": "Mesa de centro WT6611S"
+      }
+    ]
   },
   {
     "codigo": "YG6611",
@@ -5064,6 +5328,12 @@
     "materiales": "",
     "descripcion": "Pieza decorativa de la Colección Milano Home 2026, de líneas contemporáneas y terminación de alta gama.",
     "destacado": false,
-    "imagenes": []
+    "imagenes": [
+      {
+        "url": "/productos/catalogo/YG6611.jpg",
+        "rol": "principal",
+        "alt": "Pieza decorativa YG6611"
+      }
+    ]
   }
 ]
