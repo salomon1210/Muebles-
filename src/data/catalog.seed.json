@@ -48,7 +48,13 @@
     "materiales": "",
     "descripcion": "Silla de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
     "destacado": false,
-    "imagenes": []
+    "imagenes": [
+      {
+        "url": "/productos/catalogo/CH-273A.jpg",
+        "rol": "principal",
+        "alt": "Silla de comedor CH-273A"
+      }
+    ]
   },
   {
     "codigo": "CH6018",
@@ -61,7 +67,13 @@
     "materiales": "",
     "descripcion": "Sillón de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
     "destacado": false,
-    "imagenes": []
+    "imagenes": [
+      {
+        "url": "/productos/catalogo/CH6018.jpg",
+        "rol": "principal",
+        "alt": "Sillon CH6018"
+      }
+    ]
   },
   {
     "codigo": "CH6702",
@@ -1089,7 +1101,13 @@
     "materiales": "",
     "descripcion": "Consola de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
     "destacado": false,
-    "imagenes": []
+    "imagenes": [
+      {
+        "url": "/productos/catalogo/CN3129.jpg",
+        "rol": "principal",
+        "alt": "Consola CN3129"
+      }
+    ]
   },
   {
     "codigo": "CN3133",
@@ -1102,7 +1120,13 @@
     "materiales": "",
     "descripcion": "Consola de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
     "destacado": false,
-    "imagenes": []
+    "imagenes": [
+      {
+        "url": "/productos/catalogo/CN3133.jpg",
+        "rol": "principal",
+        "alt": "Consola CN3133"
+      }
+    ]
   },
   {
     "codigo": "CN6002",
@@ -1115,7 +1139,13 @@
     "materiales": "",
     "descripcion": "Consola de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
     "destacado": false,
-    "imagenes": []
+    "imagenes": [
+      {
+        "url": "/productos/catalogo/CN6002.jpg",
+        "rol": "principal",
+        "alt": "Consola CN6002"
+      }
+    ]
   },
   {
     "codigo": "CN6010",
@@ -1128,7 +1158,13 @@
     "materiales": "",
     "descripcion": "Consola de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
     "destacado": false,
-    "imagenes": []
+    "imagenes": [
+      {
+        "url": "/productos/catalogo/CN6010.jpg",
+        "rol": "principal",
+        "alt": "Consola CN6010"
+      }
+    ]
   },
   {
     "codigo": "CN6011",
@@ -1179,7 +1215,13 @@
     "materiales": "",
     "descripcion": "Consola de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
     "destacado": false,
-    "imagenes": []
+    "imagenes": [
+      {
+        "url": "/productos/catalogo/CN6261.jpg",
+        "rol": "principal",
+        "alt": "Consola CN6261"
+      }
+    ]
   },
   {
     "codigo": "CN6605",
@@ -1244,7 +1286,13 @@
     "materiales": "",
     "descripcion": "Consola de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
     "destacado": false,
-    "imagenes": []
+    "imagenes": [
+      {
+        "url": "/productos/catalogo/CN7008.jpg",
+        "rol": "principal",
+        "alt": "Consola CN7008"
+      }
+    ]
   },
   {
     "codigo": "CT5742",
@@ -1257,7 +1305,13 @@
     "materiales": "",
     "descripcion": "Mesa de centro de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
     "destacado": false,
-    "imagenes": []
+    "imagenes": [
+      {
+        "url": "/productos/catalogo/CT5742.jpg",
+        "rol": "principal",
+        "alt": "Mesa de centro CT5742"
+      }
+    ]
   },
   {
     "codigo": "CT6002",
@@ -1270,7 +1324,13 @@
     "materiales": "",
     "descripcion": "Mesa de centro de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
     "destacado": false,
-    "imagenes": []
+    "imagenes": [
+      {
+        "url": "/productos/catalogo/CT6002.jpg",
+        "rol": "principal",
+        "alt": "Mesa de centro CT6002"
+      }
+    ]
   },
   {
     "codigo": "CT6010",
@@ -1283,7 +1343,13 @@
     "materiales": "",
     "descripcion": "Mesa de centro de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
     "destacado": false,
-    "imagenes": []
+    "imagenes": [
+      {
+        "url": "/productos/catalogo/CT6010.jpg",
+        "rol": "principal",
+        "alt": "Mesa de centro CT6010"
+      }
+    ]
   },
   {
     "codigo": "CT6018",
@@ -1296,7 +1362,13 @@
     "materiales": "",
     "descripcion": "Mesa de centro de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
     "destacado": false,
-    "imagenes": []
+    "imagenes": [
+      {
+        "url": "/productos/catalogo/CT6018.jpg",
+        "rol": "principal",
+        "alt": "Mesa de centro CT6018"
+      }
+    ]
   },
   {
     "codigo": "CT6603",
@@ -1652,7 +1724,13 @@
     "materiales": "",
     "descripcion": "Mesa de centro de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
     "destacado": false,
-    "imagenes": []
+    "imagenes": [
+      {
+        "url": "/productos/catalogo/CT8013.jpg",
+        "rol": "principal",
+        "alt": "Mesa de centro CT8013"
+      }
+    ]
   },
   {
     "codigo": "CT8014",
@@ -1665,7 +1743,13 @@
     "materiales": "",
     "descripcion": "Mesa de centro de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
     "destacado": false,
-    "imagenes": []
+    "imagenes": [
+      {
+        "url": "/productos/catalogo/CT8014.jpg",
+        "rol": "principal",
+        "alt": "Mesa de centro CT8014"
+      }
+    ]
   },
   {
     "codigo": "CY6011",
@@ -1678,7 +1762,13 @@
     "materiales": "",
     "descripcion": "Silla de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
     "destacado": false,
-    "imagenes": []
+    "imagenes": [
+      {
+        "url": "/productos/catalogo/CY6011.jpg",
+        "rol": "principal",
+        "alt": "Silla de comedor CY6011"
+      }
+    ]
   },
   {
     "codigo": "DB6011",
@@ -2033,7 +2123,13 @@
     "materiales": "",
     "descripcion": "Mesa de comedor de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
     "destacado": false,
-    "imagenes": []
+    "imagenes": [
+      {
+        "url": "/productos/catalogo/DT012-1.jpg",
+        "rol": "principal",
+        "alt": "Mesa de comedor DT012-1"
+      }
+    ]
   },
   {
     "codigo": "DT015-1",
@@ -2046,7 +2142,13 @@
     "materiales": "",
     "descripcion": "Mesa de comedor de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
     "destacado": false,
-    "imagenes": []
+    "imagenes": [
+      {
+        "url": "/productos/catalogo/DT015-1.jpg",
+        "rol": "principal",
+        "alt": "Mesa de comedor DT015-1"
+      }
+    ]
   },
   {
     "codigo": "DT021-1",
@@ -2059,7 +2161,13 @@
     "materiales": "",
     "descripcion": "Mesa de comedor de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
     "destacado": false,
-    "imagenes": []
+    "imagenes": [
+      {
+        "url": "/productos/catalogo/DT021-1.jpg",
+        "rol": "principal",
+        "alt": "Mesa de comedor DT021-1"
+      }
+    ]
   },
   {
     "codigo": "DT024-1",
@@ -2072,7 +2180,13 @@
     "materiales": "",
     "descripcion": "Mesa de comedor de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
     "destacado": false,
-    "imagenes": []
+    "imagenes": [
+      {
+        "url": "/productos/catalogo/DT024-1.jpg",
+        "rol": "principal",
+        "alt": "Mesa de comedor DT024-1"
+      }
+    ]
   },
   {
     "codigo": "DT037-1",
@@ -2085,7 +2199,13 @@
     "materiales": "",
     "descripcion": "Mesa de comedor de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
     "destacado": false,
-    "imagenes": []
+    "imagenes": [
+      {
+        "url": "/productos/catalogo/DT037-1.jpg",
+        "rol": "principal",
+        "alt": "Mesa de comedor DT037-1"
+      }
+    ]
   },
   {
     "codigo": "DT3131",
@@ -2098,7 +2218,13 @@
     "materiales": "",
     "descripcion": "Mesa de comedor de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
     "destacado": false,
-    "imagenes": []
+    "imagenes": [
+      {
+        "url": "/productos/catalogo/DT3131.jpg",
+        "rol": "principal",
+        "alt": "Mesa de comedor DT3131"
+      }
+    ]
   },
   {
     "codigo": "DT6005",
@@ -2111,7 +2237,13 @@
     "materiales": "",
     "descripcion": "Mesa de comedor de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
     "destacado": false,
-    "imagenes": []
+    "imagenes": [
+      {
+        "url": "/productos/catalogo/DT6005.jpg",
+        "rol": "principal",
+        "alt": "Mesa de comedor DT6005"
+      }
+    ]
   },
   {
     "codigo": "DT6011",
@@ -2143,7 +2275,13 @@
     "materiales": "",
     "descripcion": "Mesa de comedor de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
     "destacado": false,
-    "imagenes": []
+    "imagenes": [
+      {
+        "url": "/productos/catalogo/DT6018-1.jpg",
+        "rol": "principal",
+        "alt": "Mesa de comedor DT6018-1"
+      }
+    ]
   },
   {
     "codigo": "DT6021-1",
@@ -2156,7 +2294,13 @@
     "materiales": "",
     "descripcion": "Mesa de comedor de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
     "destacado": false,
-    "imagenes": []
+    "imagenes": [
+      {
+        "url": "/productos/catalogo/DT6021-1.jpg",
+        "rol": "principal",
+        "alt": "Mesa de comedor DT6021-1"
+      }
+    ]
   },
   {
     "codigo": "DT6056",
@@ -2169,7 +2313,13 @@
     "materiales": "",
     "descripcion": "Mesa de comedor de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
     "destacado": false,
-    "imagenes": []
+    "imagenes": [
+      {
+        "url": "/productos/catalogo/DT6056.jpg",
+        "rol": "principal",
+        "alt": "Mesa de comedor DT6056"
+      }
+    ]
   },
   {
     "codigo": "DT6060-1",
@@ -2182,7 +2332,13 @@
     "materiales": "",
     "descripcion": "Mesa de comedor de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
     "destacado": false,
-    "imagenes": []
+    "imagenes": [
+      {
+        "url": "/productos/catalogo/DT6060-1.jpg",
+        "rol": "principal",
+        "alt": "Mesa de comedor DT6060-1"
+      }
+    ]
   },
   {
     "codigo": "DT6116-1",
@@ -2195,7 +2351,13 @@
     "materiales": "",
     "descripcion": "Mesa de comedor de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
     "destacado": false,
-    "imagenes": []
+    "imagenes": [
+      {
+        "url": "/productos/catalogo/DT6116-1.jpg",
+        "rol": "principal",
+        "alt": "Mesa de comedor DT6116-1"
+      }
+    ]
   },
   {
     "codigo": "DT6150-1",
@@ -2208,7 +2370,13 @@
     "materiales": "",
     "descripcion": "Mesa de comedor de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
     "destacado": false,
-    "imagenes": []
+    "imagenes": [
+      {
+        "url": "/productos/catalogo/DT6150-1.jpg",
+        "rol": "principal",
+        "alt": "Mesa de comedor DT6150-1"
+      }
+    ]
   },
   {
     "codigo": "DT6152",
@@ -2221,7 +2389,13 @@
     "materiales": "",
     "descripcion": "Mesa de comedor de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
     "destacado": false,
-    "imagenes": []
+    "imagenes": [
+      {
+        "url": "/productos/catalogo/DT6152.jpg",
+        "rol": "principal",
+        "alt": "Mesa de comedor DT6152"
+      }
+    ]
   },
   {
     "codigo": "DT6153",
@@ -2234,7 +2408,13 @@
     "materiales": "",
     "descripcion": "Mesa de comedor de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
     "destacado": false,
-    "imagenes": []
+    "imagenes": [
+      {
+        "url": "/productos/catalogo/DT6153.jpg",
+        "rol": "principal",
+        "alt": "Mesa de comedor DT6153"
+      }
+    ]
   },
   {
     "codigo": "DT6154",
@@ -2247,7 +2427,13 @@
     "materiales": "",
     "descripcion": "Mesa de comedor de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
     "destacado": false,
-    "imagenes": []
+    "imagenes": [
+      {
+        "url": "/productos/catalogo/DT6154.jpg",
+        "rol": "principal",
+        "alt": "Mesa de comedor DT6154"
+      }
+    ]
   },
   {
     "codigo": "DT6154-1",
@@ -2260,7 +2446,13 @@
     "materiales": "",
     "descripcion": "Mesa de comedor de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
     "destacado": false,
-    "imagenes": []
+    "imagenes": [
+      {
+        "url": "/productos/catalogo/DT6154-1.jpg",
+        "rol": "principal",
+        "alt": "Mesa de comedor DT6154-1"
+      }
+    ]
   },
   {
     "codigo": "DT6155",
@@ -2273,7 +2465,13 @@
     "materiales": "",
     "descripcion": "Mesa de comedor de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
     "destacado": false,
-    "imagenes": []
+    "imagenes": [
+      {
+        "url": "/productos/catalogo/DT6155.jpg",
+        "rol": "principal",
+        "alt": "Mesa de comedor DT6155"
+      }
+    ]
   },
   {
     "codigo": "DT6157-1",
@@ -2286,7 +2484,13 @@
     "materiales": "",
     "descripcion": "Mesa de comedor de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
     "destacado": false,
-    "imagenes": []
+    "imagenes": [
+      {
+        "url": "/productos/catalogo/DT6157-1.jpg",
+        "rol": "principal",
+        "alt": "Mesa de comedor DT6157-1"
+      }
+    ]
   },
   {
     "codigo": "DT6163",
@@ -2299,7 +2503,13 @@
     "materiales": "",
     "descripcion": "Mesa de comedor de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
     "destacado": false,
-    "imagenes": []
+    "imagenes": [
+      {
+        "url": "/productos/catalogo/DT6163.jpg",
+        "rol": "principal",
+        "alt": "Mesa de comedor DT6163"
+      }
+    ]
   },
   {
     "codigo": "DT6165",
@@ -2312,7 +2522,13 @@
     "materiales": "",
     "descripcion": "Mesa de comedor de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
     "destacado": false,
-    "imagenes": []
+    "imagenes": [
+      {
+        "url": "/productos/catalogo/DT6165.jpg",
+        "rol": "principal",
+        "alt": "Mesa de comedor DT6165"
+      }
+    ]
   },
   {
     "codigo": "DT6193",
@@ -2325,7 +2541,13 @@
     "materiales": "",
     "descripcion": "Mesa de comedor de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
     "destacado": false,
-    "imagenes": []
+    "imagenes": [
+      {
+        "url": "/productos/catalogo/DT6193.jpg",
+        "rol": "principal",
+        "alt": "Mesa de comedor DT6193"
+      }
+    ]
   },
   {
     "codigo": "DT6206",
@@ -2338,7 +2560,13 @@
     "materiales": "",
     "descripcion": "Mesa de comedor de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
     "destacado": false,
-    "imagenes": []
+    "imagenes": [
+      {
+        "url": "/productos/catalogo/DT6206.jpg",
+        "rol": "principal",
+        "alt": "Mesa de comedor DT6206"
+      }
+    ]
   },
   {
     "codigo": "DT6223",
@@ -2351,7 +2579,13 @@
     "materiales": "",
     "descripcion": "Mesa de comedor de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
     "destacado": false,
-    "imagenes": []
+    "imagenes": [
+      {
+        "url": "/productos/catalogo/DT6223.jpg",
+        "rol": "principal",
+        "alt": "Mesa de comedor DT6223"
+      }
+    ]
   },
   {
     "codigo": "DT6228-1",
@@ -2364,7 +2598,13 @@
     "materiales": "",
     "descripcion": "Mesa de comedor de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
     "destacado": false,
-    "imagenes": []
+    "imagenes": [
+      {
+        "url": "/productos/catalogo/DT6228-1.jpg",
+        "rol": "principal",
+        "alt": "Mesa de comedor DT6228-1"
+      }
+    ]
   },
   {
     "codigo": "DT6229-1",
@@ -2377,7 +2617,13 @@
     "materiales": "",
     "descripcion": "Mesa de comedor de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
     "destacado": false,
-    "imagenes": []
+    "imagenes": [
+      {
+        "url": "/productos/catalogo/DT6229-1.jpg",
+        "rol": "principal",
+        "alt": "Mesa de comedor DT6229-1"
+      }
+    ]
   },
   {
     "codigo": "DT6254-1",
@@ -2390,7 +2636,13 @@
     "materiales": "",
     "descripcion": "Mesa de comedor de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
     "destacado": false,
-    "imagenes": []
+    "imagenes": [
+      {
+        "url": "/productos/catalogo/DT6254-1.jpg",
+        "rol": "principal",
+        "alt": "Mesa de comedor DT6254-1"
+      }
+    ]
   },
   {
     "codigo": "DT6264",
@@ -2403,7 +2655,13 @@
     "materiales": "",
     "descripcion": "Mesa de comedor de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
     "destacado": false,
-    "imagenes": []
+    "imagenes": [
+      {
+        "url": "/productos/catalogo/DT6264.jpg",
+        "rol": "principal",
+        "alt": "Mesa de comedor DT6264"
+      }
+    ]
   },
   {
     "codigo": "DT6264-1",
@@ -2416,7 +2674,13 @@
     "materiales": "",
     "descripcion": "Mesa de comedor de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
     "destacado": false,
-    "imagenes": []
+    "imagenes": [
+      {
+        "url": "/productos/catalogo/DT6264-1.jpg",
+        "rol": "principal",
+        "alt": "Mesa de comedor DT6264-1"
+      }
+    ]
   },
   {
     "codigo": "DT6265",
@@ -2429,7 +2693,13 @@
     "materiales": "",
     "descripcion": "Mesa de comedor de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
     "destacado": false,
-    "imagenes": []
+    "imagenes": [
+      {
+        "url": "/productos/catalogo/DT6265.jpg",
+        "rol": "principal",
+        "alt": "Mesa de comedor DT6265"
+      }
+    ]
   },
   {
     "codigo": "DT6269-1",
@@ -2442,7 +2712,13 @@
     "materiales": "",
     "descripcion": "Mesa de comedor de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
     "destacado": false,
-    "imagenes": []
+    "imagenes": [
+      {
+        "url": "/productos/catalogo/DT6269-1.jpg",
+        "rol": "principal",
+        "alt": "Mesa de comedor DT6269-1"
+      }
+    ]
   },
   {
     "codigo": "DT6291-1",
@@ -2455,7 +2731,13 @@
     "materiales": "",
     "descripcion": "Mesa de comedor de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
     "destacado": false,
-    "imagenes": []
+    "imagenes": [
+      {
+        "url": "/productos/catalogo/DT6291-1.jpg",
+        "rol": "principal",
+        "alt": "Mesa de comedor DT6291-1"
+      }
+    ]
   },
   {
     "codigo": "DT6304",
@@ -2468,7 +2750,13 @@
     "materiales": "",
     "descripcion": "Mesa de comedor de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
     "destacado": false,
-    "imagenes": []
+    "imagenes": [
+      {
+        "url": "/productos/catalogo/DT6304.jpg",
+        "rol": "principal",
+        "alt": "Mesa de comedor DT6304"
+      }
+    ]
   },
   {
     "codigo": "DT6316-1",
@@ -2481,7 +2769,13 @@
     "materiales": "",
     "descripcion": "Mesa de comedor de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
     "destacado": false,
-    "imagenes": []
+    "imagenes": [
+      {
+        "url": "/productos/catalogo/DT6316-1.jpg",
+        "rol": "principal",
+        "alt": "Mesa de comedor DT6316-1"
+      }
+    ]
   },
   {
     "codigo": "DT6317-1",
@@ -2494,7 +2788,13 @@
     "materiales": "",
     "descripcion": "Mesa de comedor de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
     "destacado": false,
-    "imagenes": []
+    "imagenes": [
+      {
+        "url": "/productos/catalogo/DT6317-1.jpg",
+        "rol": "principal",
+        "alt": "Mesa de comedor DT6317-1"
+      }
+    ]
   },
   {
     "codigo": "DT6321-1",
@@ -2507,7 +2807,13 @@
     "materiales": "",
     "descripcion": "Mesa de comedor de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
     "destacado": false,
-    "imagenes": []
+    "imagenes": [
+      {
+        "url": "/productos/catalogo/DT6321-1.jpg",
+        "rol": "principal",
+        "alt": "Mesa de comedor DT6321-1"
+      }
+    ]
   },
   {
     "codigo": "DT6604",
@@ -2819,7 +3125,13 @@
     "materiales": "",
     "descripcion": "Mesa de comedor de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
     "destacado": false,
-    "imagenes": []
+    "imagenes": [
+      {
+        "url": "/productos/catalogo/DT6901.jpg",
+        "rol": "principal",
+        "alt": "Mesa de comedor DT6901"
+      }
+    ]
   },
   {
     "codigo": "DT8006",
@@ -2832,7 +3144,13 @@
     "materiales": "",
     "descripcion": "Mesa de comedor de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
     "destacado": false,
-    "imagenes": []
+    "imagenes": [
+      {
+        "url": "/productos/catalogo/DT8006.jpg",
+        "rol": "principal",
+        "alt": "Mesa de comedor DT8006"
+      }
+    ]
   },
   {
     "codigo": "DT8007",
@@ -2845,7 +3163,13 @@
     "materiales": "",
     "descripcion": "Mesa de comedor de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
     "destacado": false,
-    "imagenes": []
+    "imagenes": [
+      {
+        "url": "/productos/catalogo/DT8007.jpg",
+        "rol": "principal",
+        "alt": "Mesa de comedor DT8007"
+      }
+    ]
   },
   {
     "codigo": "DT8016",
@@ -2858,7 +3182,13 @@
     "materiales": "",
     "descripcion": "Mesa de comedor de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
     "destacado": false,
-    "imagenes": []
+    "imagenes": [
+      {
+        "url": "/productos/catalogo/DT8016.jpg",
+        "rol": "principal",
+        "alt": "Mesa de comedor DT8016"
+      }
+    ]
   },
   {
     "codigo": "DT8022",
@@ -2871,7 +3201,13 @@
     "materiales": "",
     "descripcion": "Mesa de comedor de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
     "destacado": false,
-    "imagenes": []
+    "imagenes": [
+      {
+        "url": "/productos/catalogo/DT8022.jpg",
+        "rol": "principal",
+        "alt": "Mesa de comedor DT8022"
+      }
+    ]
   },
   {
     "codigo": "DT8022-1",
@@ -2884,7 +3220,13 @@
     "materiales": "",
     "descripcion": "Mesa de comedor de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
     "destacado": false,
-    "imagenes": []
+    "imagenes": [
+      {
+        "url": "/productos/catalogo/DT8022-1.jpg",
+        "rol": "principal",
+        "alt": "Mesa de comedor DT8022-1"
+      }
+    ]
   },
   {
     "codigo": "EC6604",
@@ -2936,7 +3278,13 @@
     "materiales": "",
     "descripcion": "Mesa auxiliar de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
     "destacado": false,
-    "imagenes": []
+    "imagenes": [
+      {
+        "url": "/productos/catalogo/ET6190.jpg",
+        "rol": "principal",
+        "alt": "Mesa auxiliar ET6190"
+      }
+    ]
   },
   {
     "codigo": "ET6603",
@@ -2988,7 +3336,13 @@
     "materiales": "",
     "descripcion": "Mesa auxiliar de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
     "destacado": false,
-    "imagenes": []
+    "imagenes": [
+      {
+        "url": "/productos/catalogo/ET8014.jpg",
+        "rol": "principal",
+        "alt": "Mesa auxiliar ET8014"
+      }
+    ]
   },
   {
     "codigo": "FS6701",
@@ -3251,7 +3605,13 @@
     "materiales": "",
     "descripcion": "Mesa de centro de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
     "destacado": false,
-    "imagenes": []
+    "imagenes": [
+      {
+        "url": "/productos/catalogo/RT5006.jpg",
+        "rol": "principal",
+        "alt": "Mesa de centro RT5006"
+      }
+    ]
   },
   {
     "codigo": "RT6010",
@@ -3264,7 +3624,13 @@
     "materiales": "",
     "descripcion": "Mesa de centro de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
     "destacado": false,
-    "imagenes": []
+    "imagenes": [
+      {
+        "url": "/productos/catalogo/RT6010.jpg",
+        "rol": "principal",
+        "alt": "Mesa de centro redonda RT6010"
+      }
+    ]
   },
   {
     "codigo": "RT6019",
@@ -3277,7 +3643,13 @@
     "materiales": "",
     "descripcion": "Mesa auxiliar de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
     "destacado": false,
-    "imagenes": []
+    "imagenes": [
+      {
+        "url": "/productos/catalogo/RT6019.jpg",
+        "rol": "principal",
+        "alt": "Mesa auxiliar RT6019"
+      }
+    ]
   },
   {
     "codigo": "RT6021",
@@ -3290,7 +3662,13 @@
     "materiales": "",
     "descripcion": "Mesa de centro de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
     "destacado": false,
-    "imagenes": []
+    "imagenes": [
+      {
+        "url": "/productos/catalogo/RT6021.jpg",
+        "rol": "principal",
+        "alt": "Mesa de centro RT6021"
+      }
+    ]
   },
   {
     "codigo": "RT6022",
@@ -3303,7 +3681,13 @@
     "materiales": "",
     "descripcion": "Mesa de centro de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
     "destacado": false,
-    "imagenes": []
+    "imagenes": [
+      {
+        "url": "/productos/catalogo/RT6022.jpg",
+        "rol": "principal",
+        "alt": "Mesa de centro RT6022"
+      }
+    ]
   },
   {
     "codigo": "RT6047",
@@ -3316,7 +3700,13 @@
     "materiales": "",
     "descripcion": "Mesa de centro de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
     "destacado": false,
-    "imagenes": []
+    "imagenes": [
+      {
+        "url": "/productos/catalogo/RT6047.jpg",
+        "rol": "principal",
+        "alt": "Mesa de centro RT6047"
+      }
+    ]
   },
   {
     "codigo": "RT6055",
@@ -3329,7 +3719,13 @@
     "materiales": "",
     "descripcion": "Mesa de centro de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
     "destacado": false,
-    "imagenes": []
+    "imagenes": [
+      {
+        "url": "/productos/catalogo/RT6055.jpg",
+        "rol": "principal",
+        "alt": "Mesa de centro RT6055"
+      }
+    ]
   },
   {
     "codigo": "RT6060",
@@ -3342,7 +3738,13 @@
     "materiales": "",
     "descripcion": "Mesa de centro de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
     "destacado": false,
-    "imagenes": []
+    "imagenes": [
+      {
+        "url": "/productos/catalogo/RT6060.jpg",
+        "rol": "principal",
+        "alt": "Mesa de centro RT6060"
+      }
+    ]
   },
   {
     "codigo": "RT6166",
@@ -3355,7 +3757,13 @@
     "materiales": "",
     "descripcion": "Mesa de centro de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
     "destacado": false,
-    "imagenes": []
+    "imagenes": [
+      {
+        "url": "/productos/catalogo/RT6166.jpg",
+        "rol": "principal",
+        "alt": "Mesa de centro RT6166"
+      }
+    ]
   },
   {
     "codigo": "RT6188",
@@ -3368,7 +3776,13 @@
     "materiales": "",
     "descripcion": "Mesa de centro de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
     "destacado": false,
-    "imagenes": []
+    "imagenes": [
+      {
+        "url": "/productos/catalogo/RT6188.jpg",
+        "rol": "principal",
+        "alt": "Mesa de centro RT6188"
+      }
+    ]
   },
   {
     "codigo": "RT6194",
@@ -3381,7 +3795,13 @@
     "materiales": "",
     "descripcion": "Mesa de centro de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
     "destacado": false,
-    "imagenes": []
+    "imagenes": [
+      {
+        "url": "/productos/catalogo/RT6194.jpg",
+        "rol": "principal",
+        "alt": "Mesa de centro RT6194"
+      }
+    ]
   },
   {
     "codigo": "RT6194-1",
@@ -3394,7 +3814,13 @@
     "materiales": "",
     "descripcion": "Mesa de centro de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
     "destacado": false,
-    "imagenes": []
+    "imagenes": [
+      {
+        "url": "/productos/catalogo/RT6194-1.jpg",
+        "rol": "principal",
+        "alt": "Mesa de centro RT6194-1"
+      }
+    ]
   },
   {
     "codigo": "RT6197L",
@@ -3407,7 +3833,13 @@
     "materiales": "",
     "descripcion": "Mesa de centro de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
     "destacado": false,
-    "imagenes": []
+    "imagenes": [
+      {
+        "url": "/productos/catalogo/RT6197L.jpg",
+        "rol": "principal",
+        "alt": "Mesa de centro RT6197L"
+      }
+    ]
   },
   {
     "codigo": "RT6197S",
@@ -3420,7 +3852,13 @@
     "materiales": "",
     "descripcion": "Mesa auxiliar de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
     "destacado": false,
-    "imagenes": []
+    "imagenes": [
+      {
+        "url": "/productos/catalogo/RT6197S.jpg",
+        "rol": "principal",
+        "alt": "Mesa auxiliar RT6197S"
+      }
+    ]
   },
   {
     "codigo": "RT6198",
@@ -3433,7 +3871,13 @@
     "materiales": "",
     "descripcion": "Mesa de centro de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
     "destacado": false,
-    "imagenes": []
+    "imagenes": [
+      {
+        "url": "/productos/catalogo/RT6198.jpg",
+        "rol": "principal",
+        "alt": "Mesa de centro RT6198"
+      }
+    ]
   },
   {
     "codigo": "RT6270",
@@ -3446,7 +3890,13 @@
     "materiales": "",
     "descripcion": "Mesa de centro de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
     "destacado": false,
-    "imagenes": []
+    "imagenes": [
+      {
+        "url": "/productos/catalogo/RT6270.jpg",
+        "rol": "principal",
+        "alt": "Mesa de centro RT6270"
+      }
+    ]
   },
   {
     "codigo": "RT6337",
@@ -3459,7 +3909,13 @@
     "materiales": "",
     "descripcion": "Mesa de centro de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
     "destacado": false,
-    "imagenes": []
+    "imagenes": [
+      {
+        "url": "/productos/catalogo/RT6337.jpg",
+        "rol": "principal",
+        "alt": "Mesa de centro RT6337"
+      }
+    ]
   },
   {
     "codigo": "RT6602",
@@ -4525,7 +4981,13 @@
     "materiales": "",
     "descripcion": "Consola de la Colección Milano Home, de líneas contemporáneas y terminación de alta gama. Consultanos disponibilidad y opciones de terminación.",
     "destacado": false,
-    "imagenes": []
+    "imagenes": [
+      {
+        "url": "/productos/catalogo/W137-7.jpg",
+        "rol": "principal",
+        "alt": "Consola W137-7"
+      }
+    ]
   },
   {
     "codigo": "WC6701",
