@@ -29,6 +29,7 @@ export const CATEGORIAS = [
   { id: 'consolas', nombre: 'Consolas' },
   { id: 'aparadores', nombre: 'Aparadores y vitrinas' },
   { id: 'muebles-tv', nombre: 'Muebles de TV' },
+  { id: 'espejos', nombre: 'Espejos' },
   { id: 'bibliotecas', nombre: 'Bibliotecas' },
   { id: 'bar-carts', nombre: 'Bar carts' },
   { id: 'banquetas', nombre: 'Banquetas y poufs' },
